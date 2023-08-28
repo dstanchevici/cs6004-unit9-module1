@@ -1,0 +1,14 @@
+<doc background=BBBBBB foreground=0000B0>
+<title size=20> Most profitable movie
+<hline>
+
+<text size=20>
+This page has no input, just a button to find the most
+profitable movie.
+</text>
+
+<button name=FindProfitable>
+
+<server url=gstp://localhost:40013 app=MovieProfitApp>
+
+

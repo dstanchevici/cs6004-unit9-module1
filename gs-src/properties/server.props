@@ -1,0 +1,15 @@
+# The total number of apps
+numApps=3
+
+# Add each new app here
+app0=ExampleApp
+app1=RegisterApp
+app2=MovieFindApp
+#app3=MovieProfitApp
+
+# Replace the below number with your assigned port number 
+# (something other than the default 40013)
+portNum=40013
+
+
+

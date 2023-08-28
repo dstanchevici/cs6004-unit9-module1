@@ -1,0 +1,22 @@
+<doc background=FFFFFF foreground=000000>
+<title size=20> Dmitri's Homepage
+<hline>
+
+<text size=20>
+Bio
+</text>
+
+
+<image width=150 height=210 url=pic.jpg>
+
+<vspace height=40>
+
+<text size=20>
+I am a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.
+</text>
+
+<vspace height=40>
+
+<text size=20>
+Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.
+</text>

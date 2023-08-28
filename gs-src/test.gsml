@@ -1,0 +1,41 @@
+<doc background=FFFFFF foreground=000000>
+<title size=20> This is the title
+<hline>
+
+<text size=12>
+This is some text.
+Here is <link url=test2.gsml>a link to</link> more text.
+</text>
+
+<vspace height=5>
+
+<text size=12>
+Enter some text in the box after first clicking in the box:
+</text>
+<inputfield width=100 name=box>
+
+<vspace height=5>
+
+<text size=12>
+Then, click the button:
+</text>
+<button name=submit>
+
+<text size=12>
+(Nothing will happen.)
+</text>
+
+<vspace height=5>
+
+<text size=20>
+This is bigger text with <link url=test2.gsml>another link to the same file</link>.
+</text>
+
+<vspace height=5>
+
+<text size=12>
+And this is an image from the same directory:
+</text>
+
+<image width=50 height=40 url=bugs.jpg>
+

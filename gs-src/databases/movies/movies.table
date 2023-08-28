@@ -1,0 +1,4000 @@
+#########################################
+.
+movieID: 1
+title: Avatar
+budget: 2.37E8
+revenue: 2.787965087E9
+director: James Cameron
+popularity: 150.437577
+#########################################
+.
+movieID: 2
+title: Titanic
+budget: 2.0E8
+revenue: 1.845034188E9
+director: James Cameron
+popularity: 100.025899
+#########################################
+.
+movieID: 3
+title: Jurassic World
+budget: 1.5E8
+revenue: 1.51352881E9
+director: Colin Trevorrow
+popularity: 418.708552
+#########################################
+.
+movieID: 4
+title: Furious 7
+budget: 1.9E8
+revenue: 1.50624936E9
+director: James Wan
+popularity: 102.322217
+#########################################
+.
+movieID: 5
+title: The Avengers
+budget: 2.2E8
+revenue: 1.51955791E9
+director: Joss Whedon
+popularity: 144.448633
+#########################################
+.
+movieID: 6
+title: Avengers: Age of Ultron
+budget: 2.8E8
+revenue: 1.405403694E9
+director: Joss Whedon
+popularity: 134.279229
+#########################################
+.
+movieID: 7
+title: Frozen
+budget: 1.5E8
+revenue: 1.274219009E9
+director: Jennifer Lee
+popularity: 165.125366
+#########################################
+.
+movieID: 8
+title: Minions
+budget: 7.4E7
+revenue: 1.156730962E9
+director: Pierre Coffin
+popularity: 875.581305
+#########################################
+.
+movieID: 9
+title: The Lord of the Rings: The Return of the King
+budget: 9.4E7
+revenue: 1.118888979E9
+director: Peter Jackson
+popularity: 123.630332
+#########################################
+.
+movieID: 10
+title: Iron Man 3
+budget: 2.0E8
+revenue: 1.215439994E9
+director: Shane Black
+popularity: 77.68208
+#########################################
+.
+movieID: 11
+title: Transformers: Dark of the Moon
+budget: 1.95E8
+revenue: 1.123746996E9
+director: Michael Bay
+popularity: 28.529607
+#########################################
+.
+movieID: 12
+title: Skyfall
+budget: 2.0E8
+revenue: 1.108561013E9
+director: Sam Mendes
+popularity: 93.004993
+#########################################
+.
+movieID: 13
+title: Captain America: Civil War
+budget: 2.5E8
+revenue: 1.153304495E9
+director: Joe Russo
+popularity: 198.372395
+#########################################
+.
+movieID: 14
+title: Despicable Me 2
+budget: 7.6E7
+revenue: 9.70761885E8
+director: Chris Renaud
+popularity: 136.886704
+#########################################
+.
+movieID: 15
+title: Transformers: Age of Extinction
+budget: 2.1E8
+revenue: 1.091405097E9
+director: Michael Bay
+popularity: 116.840296
+#########################################
+.
+movieID: 16
+title: Toy Story 3
+budget: 2.0E8
+revenue: 1.066969703E9
+director: Lee Unkrich
+popularity: 59.995418
+#########################################
+.
+movieID: 17
+title: Pirates of the Caribbean: Dead Man's Chest
+budget: 2.0E8
+revenue: 1.065659812E9
+director: Gore Verbinski
+popularity: 145.847379
+#########################################
+.
+movieID: 18
+title: Jurassic Park
+budget: 6.3E7
+revenue: 9.201E8
+director: Steven Spielberg
+popularity: 40.413191
+#########################################
+.
+movieID: 19
+title: Harry Potter and the Philosopher's Stone
+budget: 1.25E8
+revenue: 9.7647555E8
+director: Chris Columbus
+popularity: 109.984351
+#########################################
+.
+movieID: 20
+title: The Lord of the Rings: The Two Towers
+budget: 7.9E7
+revenue: 9.262874E8
+director: Peter Jackson
+popularity: 106.914973
+#########################################
+.
+movieID: 21
+title: Finding Nemo
+budget: 9.4E7
+revenue: 9.40335536E8
+director: Andrew Stanton
+popularity: 85.688789
+#########################################
+.
+movieID: 22
+title: The Dark Knight Rises
+budget: 2.5E8
+revenue: 1.084939099E9
+director: Christopher Nolan
+popularity: 112.31295
+#########################################
+.
+movieID: 23
+title: Alice in Wonderland
+budget: 2.0E8
+revenue: 1.02549111E9
+director: Tim Burton
+popularity: 78.530105
+#########################################
+.
+movieID: 24
+title: The Dark Knight
+budget: 1.85E8
+revenue: 1.004558444E9
+director: Christopher Nolan
+popularity: 187.322927
+#########################################
+.
+movieID: 25
+title: Star Wars: Episode I - The Phantom Menace
+budget: 1.15E8
+revenue: 9.24317558E8
+director: George Lucas
+popularity: 54.035265
+#########################################
+.
+movieID: 26
+title: The Secret Life of Pets
+budget: 7.5E7
+revenue: 8.75958308E8
+director: Chris Renaud
+popularity: 31.482872
+#########################################
+.
+movieID: 27
+title: Ice Age: Dawn of the Dinosaurs
+budget: 9.0E7
+revenue: 8.86686817E8
+director: Carlos Saldanha
+popularity: 69.457898
+#########################################
+.
+movieID: 28
+title: The Jungle Book
+budget: 1.75E8
+revenue: 9.665506E8
+director: Jon Favreau
+popularity: 94.199316
+#########################################
+.
+movieID: 29
+title: Harry Potter and the Order of the Phoenix
+budget: 1.5E8
+revenue: 9.38212738E8
+director: David Yates
+popularity: 78.144395
+#########################################
+.
+movieID: 30
+title: E.T. the Extra-Terrestrial
+budget: 1.05E7
+revenue: 7.92910554E8
+director: Steven Spielberg
+popularity: 56.105798
+#########################################
+.
+movieID: 31
+title: Ice Age: Continental Drift
+budget: 9.5E7
+revenue: 8.77244782E8
+director: Mike Thurmeier
+popularity: 65.229868
+#########################################
+.
+movieID: 32
+title: The Lord of the Rings: The Fellowship of the Ring
+budget: 9.3E7
+revenue: 8.71368364E8
+director: Peter Jackson
+popularity: 138.049577
+#########################################
+.
+movieID: 33
+title: Harry Potter and the Chamber of Secrets
+budget: 1.0E8
+revenue: 8.76688482E8
+director: Chris Columbus
+popularity: 132.397737
+#########################################
+.
+movieID: 34
+title: The Hobbit: An Unexpected Journey
+budget: 2.5E8
+revenue: 1.021103568E9
+director: Peter Jackson
+popularity: 108.849621
+#########################################
+.
+movieID: 35
+title: Shrek 2
+budget: 1.5E8
+revenue: 9.19838758E8
+director: Conrad Vernon
+popularity: 47.320801
+#########################################
+.
+movieID: 36
+title: Star Wars
+budget: 1.1E7
+revenue: 7.75398007E8
+director: George Lucas
+popularity: 126.393695
+#########################################
+.
+movieID: 37
+title: Harry Potter and the Goblet of Fire
+budget: 1.5E8
+revenue: 8.95921036E8
+director: Mike Newell
+popularity: 101.250416
+#########################################
+.
+movieID: 38
+title: The Lion King
+budget: 4.5E7
+revenue: 7.88241776E8
+director: Rob Minkoff
+popularity: 90.457886
+#########################################
+.
+movieID: 39
+title: Independence Day
+budget: 7.5E7
+revenue: 8.16969268E8
+director: Roland Emmerich
+popularity: 60.442593
+#########################################
+.
+movieID: 40
+title: Star Wars: Episode III - Revenge of the Sith
+budget: 1.13E8
+revenue: 8.5E8
+director: George Lucas
+popularity: 44.108427
+#########################################
+.
+movieID: 41
+title: Deadpool
+budget: 5.8E7
+revenue: 7.83112979E8
+director: Tim Miller
+popularity: 514.569956
+#########################################
+.
+movieID: 42
+title: The Hunger Games: Catching Fire
+budget: 1.3E8
+revenue: 8.47423452E8
+director: Francis Lawrence
+popularity: 76.310119
+#########################################
+.
+movieID: 43
+title: The Twilight Saga: Breaking Dawn - Part 2
+budget: 1.2E8
+revenue: 8.29E8
+director: Bill Condon
+popularity: 99.687084
+#########################################
+.
+movieID: 44
+title: The Hobbit: The Desolation of Smaug
+budget: 2.5E8
+revenue: 9.584E8
+director: Peter Jackson
+popularity: 94.370564
+#########################################
+.
+movieID: 45
+title: The Hobbit: The Battle of the Five Armies
+budget: 2.5E8
+revenue: 9.56019788E8
+director: Peter Jackson
+popularity: 120.965743
+#########################################
+.
+movieID: 46
+title: Transformers: Revenge of the Fallen
+budget: 1.5E8
+revenue: 8.36297228E8
+director: Michael Bay
+popularity: 21.939663
+#########################################
+.
+movieID: 47
+title: Harry Potter and the Half-Blood Prince
+budget: 2.5E8
+revenue: 9.33959197E8
+director: David Yates
+popularity: 98.885637
+#########################################
+.
+movieID: 48
+title: Spider-Man
+budget: 1.39E8
+revenue: 8.21708551E8
+director: Sam Raimi
+popularity: 82.502566
+#########################################
+.
+movieID: 49
+title: Inside Out
+budget: 1.75E8
+revenue: 8.57611174E8
+director: Pete Docter
+popularity: 128.655964
+#########################################
+.
+movieID: 50
+title: Pirates of the Caribbean: On Stranger Tides
+budget: 3.8E8
+revenue: 1.045713802E9
+director: Rob Marshall
+popularity: 135.413856
+#########################################
+.
+movieID: 51
+title: Inception
+budget: 1.6E8
+revenue: 8.25532764E8
+director: Christopher Nolan
+popularity: 167.58371
+#########################################
+.
+movieID: 52
+title: Pirates of the Caribbean: At World's End
+budget: 3.0E8
+revenue: 9.61E8
+director: Gore Verbinski
+popularity: 139.082615
+#########################################
+.
+movieID: 53
+title: The Twilight Saga: New Moon
+budget: 5.0E7
+revenue: 7.09827462E8
+director: Chris Weitz
+popularity: 94.815867
+#########################################
+.
+movieID: 54
+title: Harry Potter and the Prisoner of Azkaban
+budget: 1.3E8
+revenue: 7.89804554E8
+director: Alfonso Cuarón
+popularity: 79.679601
+#########################################
+.
+movieID: 55
+title: The Da Vinci Code
+budget: 1.25E8
+revenue: 7.67820459E8
+director: Ron Howard
+popularity: 45.313197
+#########################################
+.
+movieID: 56
+title: Shrek the Third
+budget: 1.6E8
+revenue: 7.98958165E8
+director: Raman Hui
+popularity: 42.986467
+#########################################
+.
+movieID: 57
+title: Spectre
+budget: 2.45E8
+revenue: 8.80674609E8
+director: Sam Mendes
+popularity: 107.376788
+#########################################
+.
+movieID: 58
+title: Spider-Man 3
+budget: 2.58E8
+revenue: 8.90871626E8
+director: Sam Raimi
+popularity: 115.699814
+#########################################
+.
+movieID: 59
+title: The Sixth Sense
+budget: 4.0E7
+revenue: 6.72806292E8
+director: M. Night Shyamalan
+popularity: 73.085576
+#########################################
+.
+movieID: 60
+title: The Twilight Saga: Eclipse
+budget: 6.8E7
+revenue: 6.98491347E8
+director: David Slade
+popularity: 107.069763
+#########################################
+.
+movieID: 61
+title: The Hunger Games: Mockingjay - Part 1
+budget: 1.25E8
+revenue: 7.52100229E8
+director: Francis Lawrence
+popularity: 206.227151
+#########################################
+.
+movieID: 62
+title: Batman v Superman: Dawn of Justice
+budget: 2.5E8
+revenue: 8.73260194E8
+director: Zack Snyder
+popularity: 155.790452
+#########################################
+.
+movieID: 63
+title: Forrest Gump
+budget: 5.5E7
+revenue: 6.77945399E8
+director: Robert Zemeckis
+popularity: 138.133331
+#########################################
+.
+movieID: 64
+title: The Hunger Games
+budget: 7.5E7
+revenue: 6.91210692E8
+director: Gary Ross
+popularity: 68.550698
+#########################################
+.
+movieID: 65
+title: Gravity
+budget: 1.05E8
+revenue: 7.16392705E8
+director: Alfonso Cuarón
+popularity: 110.153618
+#########################################
+.
+movieID: 66
+title: Guardians of the Galaxy
+budget: 1.7E8
+revenue: 7.73328629E8
+director: James Gunn
+popularity: 481.098624
+#########################################
+.
+movieID: 67
+title: Madagascar 3: Europe's Most Wanted
+budget: 1.45E8
+revenue: 7.46921274E8
+director: Tom McGrath
+popularity: 44.989192
+#########################################
+.
+movieID: 68
+title: Indiana Jones and the Kingdom of the Crystal Skull
+budget: 1.85E8
+revenue: 7.86636033E8
+director: Steven Spielberg
+popularity: 75.674458
+#########################################
+.
+movieID: 69
+title: The Matrix Reloaded
+budget: 1.5E8
+revenue: 7.38599701E8
+director: Lana Wachowski
+popularity: 70.78591
+#########################################
+.
+movieID: 70
+title: Shrek Forever After
+budget: 1.65E8
+revenue: 7.52600867E8
+director: Mike Mitchell
+popularity: 44.041186
+#########################################
+.
+movieID: 71
+title: Spider-Man 2
+budget: 2.0E8
+revenue: 7.83766341E8
+director: Sam Raimi
+popularity: 35.149586
+#########################################
+.
+movieID: 72
+title: The Passion of the Christ
+budget: 3.0E7
+revenue: 6.1189942E8
+director: Mel Gibson
+popularity: 38.171417
+#########################################
+.
+movieID: 73
+title: Ice Age: The Meltdown
+budget: 8.0E7
+revenue: 6.6094078E8
+director: Carlos Saldanha
+popularity: 85.115058
+#########################################
+.
+movieID: 74
+title: Maleficent
+budget: 1.8E8
+revenue: 7.58539785E8
+director: Robert Stromberg
+popularity: 110.620647
+#########################################
+.
+movieID: 75
+title: Suicide Squad
+budget: 1.75E8
+revenue: 7.45E8
+director: David Ayer
+popularity: 90.23792
+#########################################
+.
+movieID: 76
+title: 2012
+budget: 2.0E8
+revenue: 7.69653595E8
+director: Roland Emmerich
+popularity: 45.274225
+#########################################
+.
+movieID: 77
+title: The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+budget: 1.8E8
+revenue: 7.48806957E8
+director: Andrew Adamson
+popularity: 67.391328
+#########################################
+.
+movieID: 78
+title: Up
+budget: 1.75E8
+revenue: 7.35099082E8
+director: Pete Docter
+popularity: 92.201962
+#########################################
+.
+movieID: 79
+title: Transformers
+budget: 1.5E8
+revenue: 7.0970978E8
+director: Michael Bay
+popularity: 25.468493
+#########################################
+.
+movieID: 80
+title: Mamma Mia!
+budget: 5.2E7
+revenue: 6.09841637E8
+director: Phyllida Lloyd
+popularity: 30.780599
+#########################################
+.
+movieID: 81
+title: Mission: Impossible - Ghost Protocol
+budget: 1.45E8
+revenue: 6.9471338E8
+director: Brad Bird
+popularity: 77.77477
+#########################################
+.
+movieID: 82
+title: Captain America: The Winter Soldier
+budget: 1.7E8
+revenue: 7.14766572E8
+director: Joe Russo
+popularity: 72.225265
+#########################################
+.
+movieID: 83
+title: Monsters University
+budget: 2.0E8
+revenue: 7.43559607E8
+director: Dan Scanlon
+popularity: 89.186492
+#########################################
+.
+movieID: 84
+title: Dawn of the Planet of the Apes
+budget: 1.7E8
+revenue: 7.10644566E8
+director: Matt Reeves
+popularity: 243.791743
+#########################################
+.
+movieID: 85
+title: Return of the Jedi
+budget: 3.235E7
+revenue: 5.727E8
+director: Richard Marquand
+popularity: 46.509071
+#########################################
+.
+movieID: 86
+title: The Incredibles
+budget: 9.2E7
+revenue: 6.31442092E8
+director: Brad Bird
+popularity: 77.817571
+#########################################
+.
+movieID: 87
+title: The Amazing Spider-Man
+budget: 2.15E8
+revenue: 7.52215857E8
+director: Marc Webb
+popularity: 89.866276
+#########################################
+.
+movieID: 88
+title: Mission: Impossible - Rogue Nation
+budget: 1.5E8
+revenue: 6.82330139E8
+director: Christopher McQuarrie
+popularity: 114.522237
+#########################################
+.
+movieID: 89
+title: Fifty Shades of Grey
+budget: 4.0E7
+revenue: 5.71006128E8
+director: Sam Taylor-Johnson
+popularity: 98.755657
+#########################################
+.
+movieID: 90
+title: Star Wars: Episode II - Attack of the Clones
+budget: 1.2E8
+revenue: 6.49398328E8
+director: George Lucas
+popularity: 43.987061
+#########################################
+.
+movieID: 91
+title: The Martian
+budget: 1.08E8
+revenue: 6.3016189E8
+director: Ridley Scott
+popularity: 167.93287
+#########################################
+.
+movieID: 92
+title: The Empire Strikes Back
+budget: 1.8E7
+revenue: 5.384E8
+director: Irvin Kershner
+popularity: 78.51783
+#########################################
+.
+movieID: 93
+title: Kung Fu Panda 2
+budget: 1.5E8
+revenue: 6.65692281E8
+director: Jennifer Yuh Nelson
+popularity: 51.247321
+#########################################
+.
+movieID: 94
+title: Pirates of the Caribbean: The Curse of the Black Pearl
+budget: 1.4E8
+revenue: 6.55011224E8
+director: Gore Verbinski
+popularity: 271.972889
+#########################################
+.
+movieID: 95
+title: Interstellar
+budget: 1.65E8
+revenue: 6.75120017E8
+director: Christopher Nolan
+popularity: 724.247784
+#########################################
+.
+movieID: 96
+title: The Amazing Spider-Man 2
+budget: 2.0E8
+revenue: 7.05717432E8
+director: Marc Webb
+popularity: 89.270217
+#########################################
+.
+movieID: 97
+title: Kung Fu Panda
+budget: 1.3E8
+revenue: 6.3174456E8
+director: John Stevenson
+popularity: 84.689648
+#########################################
+.
+movieID: 98
+title: Fast Five
+budget: 1.25E8
+revenue: 6.26137675E8
+director: Justin Lin
+popularity: 7.255718
+#########################################
+.
+movieID: 99
+title: Men in Black
+budget: 9.0E7
+revenue: 5.89390539E8
+director: Barry Sonnenfeld
+popularity: 104.121555
+#########################################
+.
+movieID: 100
+title: Ted
+budget: 5.0E7
+revenue: 5.49368315E8
+director: Seth MacFarlane
+popularity: 68.87691
+#########################################
+.
+movieID: 101
+title: X-Men: Days of Future Past
+budget: 2.5E8
+revenue: 7.47862775E8
+director: Bryan Singer
+popularity: 118.078691
+#########################################
+.
+movieID: 102
+title: The Hunger Games: Mockingjay - Part 2
+budget: 1.6E8
+revenue: 6.53428261E8
+director: Francis Lawrence
+popularity: 127.284427
+#########################################
+.
+movieID: 103
+title: Life of Pi
+budget: 1.2E8
+revenue: 6.09016565E8
+director: Ang Lee
+popularity: 51.328145
+#########################################
+.
+movieID: 104
+title: Big Hero 6
+budget: 1.65E8
+revenue: 6.52105443E8
+director: Don Hall
+popularity: 203.73459
+#########################################
+.
+movieID: 105
+title: American Sniper
+budget: 5.88E7
+revenue: 5.42307423E8
+director: Clint Eastwood
+popularity: 87.53437
+#########################################
+.
+movieID: 106
+title: Ghost
+budget: 2.2E7
+revenue: 5.05E8
+director: Jerry Zucker
+popularity: 41.967005
+#########################################
+.
+movieID: 107
+title: Aladdin
+budget: 2.8E7
+revenue: 5.04050219E8
+director: John Musker
+popularity: 92.982009
+#########################################
+.
+movieID: 108
+title: Thor: The Dark World
+budget: 1.7E8
+revenue: 6.44571402E8
+director: Alan Taylor
+popularity: 99.499595
+#########################################
+.
+movieID: 109
+title: Despicable Me
+budget: 6.9E7
+revenue: 5.43513985E8
+director: Chris Renaud
+popularity: 113.858273
+#########################################
+.
+movieID: 110
+title: Hancock
+budget: 1.5E8
+revenue: 6.24029371E8
+director: Peter Berg
+popularity: 56.758411
+#########################################
+.
+movieID: 111
+title: Ratatouille
+budget: 1.5E8
+revenue: 6.23722818E8
+director: Brad Bird
+popularity: 65.677399
+#########################################
+.
+movieID: 112
+title: Night at the Museum
+budget: 1.1E8
+revenue: 5.74480841E8
+director: Shawn Levy
+popularity: 48.780039
+#########################################
+.
+movieID: 113
+title: How to Train Your Dragon 2
+budget: 1.45E8
+revenue: 6.09123048E8
+director: Dean DeBlois
+popularity: 100.21391
+#########################################
+.
+movieID: 114
+title: Jaws
+budget: 7000000.0
+revenue: 4.70654E8
+director: Steven Spielberg
+popularity: 50.152327
+#########################################
+.
+movieID: 115
+title: War of the Worlds
+budget: 1.32E8
+revenue: 5.91739379E8
+director: Steven Spielberg
+popularity: 48.572726
+#########################################
+.
+movieID: 116
+title: Home Alone
+budget: 1.8E7
+revenue: 4.76684675E8
+director: Chris Columbus
+popularity: 2.186927
+#########################################
+.
+movieID: 117
+title: Madagascar
+budget: 7.5E7
+revenue: 5.32680671E8
+director: Tom McGrath
+popularity: 48.110909
+#########################################
+.
+movieID: 118
+title: Madagascar: Escape 2 Africa
+budget: 1.5E8
+revenue: 6.03900354E8
+director: Tom McGrath
+popularity: 44.141021
+#########################################
+.
+movieID: 119
+title: The Smurfs
+budget: 1.1E8
+revenue: 5.63749323E8
+director: Raja Gosnell
+popularity: 36.65422
+#########################################
+.
+movieID: 120
+title: The Simpsons Movie
+budget: 7.5E7
+revenue: 5.27068851E8
+director: David Silverman
+popularity: 46.875375
+#########################################
+.
+movieID: 121
+title: The Croods
+budget: 1.35E8
+revenue: 5.85178928E8
+director: Kirk De Micco
+popularity: 64.183321
+#########################################
+.
+movieID: 122
+title: Casino Royale
+budget: 1.5E8
+revenue: 5.9904596E8
+director: Martin Campbell
+popularity: 88.935165
+#########################################
+.
+movieID: 123
+title: Pretty Woman
+budget: 1.4E7
+revenue: 4.63E8
+director: Garry Marshall
+popularity: 45.473484
+#########################################
+.
+movieID: 124
+title: Cinderella
+budget: 9.5E7
+revenue: 5.43514353E8
+director: Kenneth Branagh
+popularity: 101.187052
+#########################################
+.
+movieID: 125
+title: Monsters, Inc.
+budget: 1.15E8
+revenue: 5.62816256E8
+director: Pete Docter
+popularity: 106.815545
+#########################################
+.
+movieID: 126
+title: Iron Man
+budget: 1.4E8
+revenue: 5.85174222E8
+director: Jon Favreau
+popularity: 120.725053
+#########################################
+.
+movieID: 127
+title: Man of Steel
+budget: 2.25E8
+revenue: 6.62845518E8
+director: Zack Snyder
+popularity: 99.398009
+#########################################
+.
+movieID: 128
+title: Meet the Fockers
+budget: 8.0E7
+revenue: 5.16642939E8
+director: Jay Roach
+popularity: 32.829538
+#########################################
+.
+movieID: 129
+title: I Am Legend
+budget: 1.5E8
+revenue: 5.8534901E8
+director: Francis Lawrence
+popularity: 70.867401
+#########################################
+.
+movieID: 130
+title: Sherlock Holmes
+budget: 9.0E7
+revenue: 5.24028679E8
+director: Guy Ritchie
+popularity: 57.834787
+#########################################
+.
+movieID: 131
+title: The Exorcist
+budget: 8000000.0
+revenue: 4.41306145E8
+director: William Friedkin
+popularity: 47.584643
+#########################################
+.
+movieID: 132
+title: Indiana Jones and the Last Crusade
+budget: 4.8E7
+revenue: 4.74171806E8
+director: Steven Spielberg
+popularity: 80.972475
+#########################################
+.
+movieID: 133
+title: Puss in Boots
+budget: 1.3E8
+revenue: 5.54987477E8
+director: Chris Miller
+popularity: 20.678787
+#########################################
+.
+movieID: 134
+title: Shrek
+budget: 6.0E7
+revenue: 4.84409218E8
+director: Vicky Jenson
+popularity: 67.298732
+#########################################
+.
+movieID: 135
+title: The Hangover
+budget: 3.5E7
+revenue: 4.59270619E8
+director: Todd Phillips
+popularity: 82.21166
+#########################################
+.
+movieID: 136
+title: Iron Man 2
+budget: 2.0E8
+revenue: 6.23933331E8
+director: Jon Favreau
+popularity: 77.300194
+#########################################
+.
+movieID: 137
+title: Mission: Impossible II
+budget: 1.25E8
+revenue: 5.46388105E8
+director: John Woo
+popularity: 54.931334
+#########################################
+.
+movieID: 138
+title: Terminator 2: Judgment Day
+budget: 1.0E8
+revenue: 5.2E8
+director: James Cameron
+popularity: 101.74155
+#########################################
+.
+movieID: 139
+title: The Day After Tomorrow
+budget: 1.25E8
+revenue: 5.44272402E8
+director: Roland Emmerich
+popularity: 41.380094
+#########################################
+.
+movieID: 140
+title: Mrs. Doubtfire
+budget: 2.5E7
+revenue: 4.41286195E8
+director: Chris Columbus
+popularity: 30.884535
+#########################################
+.
+movieID: 141
+title: Armageddon
+budget: 1.4E8
+revenue: 5.53799566E8
+director: Michael Bay
+popularity: 58.485967
+#########################################
+.
+movieID: 142
+title: Saving Private Ryan
+budget: 7.0E7
+revenue: 4.81840909E8
+director: Steven Spielberg
+popularity: 76.041867
+#########################################
+.
+movieID: 143
+title: The Lego Movie
+budget: 6.0E7
+revenue: 4.69160692E8
+director: Christopher Miller
+popularity: 59.547928
+#########################################
+.
+movieID: 144
+title: Toy Story 2
+budget: 9.0E7
+revenue: 4.97366869E8
+director: John Lasseter
+popularity: 73.575118
+#########################################
+.
+movieID: 145
+title: Bruce Almighty
+budget: 8.0E7
+revenue: 4.84572835E8
+director: Tom Shadyac
+popularity: 109.684788
+#########################################
+.
+movieID: 146
+title: Twister
+budget: 9.2E7
+revenue: 4.94471524E8
+director: Jan de Bont
+popularity: 32.079995
+#########################################
+.
+movieID: 147
+title: Dances with Wolves
+budget: 2.2E7
+revenue: 4.24208848E8
+director: Kevin Costner
+popularity: 45.707835
+#########################################
+.
+movieID: 148
+title: The Matrix
+budget: 6.3E7
+revenue: 4.63517383E8
+director: Lana Wachowski
+popularity: 104.309993
+#########################################
+.
+movieID: 149
+title: The King's Speech
+budget: 1.5E7
+revenue: 4.14211549E8
+director: Tom Hooper
+popularity: 54.053576
+#########################################
+.
+movieID: 150
+title: Men in Black 3
+budget: 2.25E8
+revenue: 6.24026776E8
+director: Barry Sonnenfeld
+popularity: 52.035179
+#########################################
+.
+movieID: 151
+title: The Revenant
+budget: 1.35E8
+revenue: 5.32950503E8
+director: Alejandro González Iñárritu
+popularity: 100.635882
+#########################################
+.
+movieID: 152
+title: Rio 2
+budget: 1.03E8
+revenue: 5.00188435E8
+director: Carlos Saldanha
+popularity: 42.40024
+#########################################
+.
+movieID: 153
+title: Gone with the Wind
+budget: 4000000.0
+revenue: 4.00176459E8
+director: Victor Fleming
+popularity: 48.98255
+#########################################
+.
+movieID: 154
+title: Rio
+budget: 9.0E7
+revenue: 4.8463576E8
+director: Carlos Saldanha
+popularity: 46.200042
+#########################################
+.
+movieID: 155
+title: Hotel Transylvania 2
+budget: 8.0E7
+revenue: 4.73226958E8
+director: Genndy Tartakovsky
+popularity: 61.692197
+#########################################
+.
+movieID: 156
+title: Rise of the Planet of the Apes
+budget: 9.3E7
+revenue: 4.82860185E8
+director: Rupert Wyatt
+popularity: 138.433168
+#########################################
+.
+movieID: 157
+title: Ant-Man
+budget: 1.3E8
+revenue: 5.19311965E8
+director: Peyton Reed
+popularity: 120.09361
+#########################################
+.
+movieID: 158
+title: Rain Man
+budget: 2.5E7
+revenue: 4.128E8
+director: Barry Levinson
+popularity: 49.510658
+#########################################
+.
+movieID: 159
+title: Quantum of Solace
+budget: 2.0E8
+revenue: 5.86090727E8
+director: Marc Forster
+popularity: 107.928811
+#########################################
+.
+movieID: 160
+title: The Bodyguard
+budget: 2.5E7
+revenue: 4.1100674E8
+director: Mick Jackson
+popularity: 26.576385
+#########################################
+.
+movieID: 161
+title: Mission: Impossible
+budget: 8.0E7
+revenue: 4.57696359E8
+director: Brian De Palma
+popularity: 75.290998
+#########################################
+.
+movieID: 162
+title: Batman
+budget: 3.5E7
+revenue: 4.11348924E8
+director: Tim Burton
+popularity: 44.104469
+#########################################
+.
+movieID: 163
+title: Kung Fu Panda 3
+budget: 1.45E8
+revenue: 5.21170825E8
+director: Alessandro Carloni
+popularity: 56.747978
+#########################################
+.
+movieID: 164
+title: The Bourne Ultimatum
+budget: 7.0E7
+revenue: 4.42824138E8
+director: Paul Greengrass
+popularity: 45.381501
+#########################################
+.
+movieID: 165
+title: Raiders of the Lost Ark
+budget: 1.8E7
+revenue: 3.89925971E8
+director: Steven Spielberg
+popularity: 68.159596
+#########################################
+.
+movieID: 166
+title: Mr. & Mrs. Smith
+budget: 1.1E8
+revenue: 4.7820752E8
+director: Doug Liman
+popularity: 44.635452
+#########################################
+.
+movieID: 167
+title: Alvin and the Chipmunks: The Squeakquel
+budget: 7.5E7
+revenue: 4.43140005E8
+director: Betty Thomas
+popularity: 29.412262
+#########################################
+.
+movieID: 168
+title: X-Men: Apocalypse
+budget: 1.78E8
+revenue: 5.43934787E8
+director: Bryan Singer
+popularity: 139.272042
+#########################################
+.
+movieID: 169
+title: Ocean's Eleven
+budget: 8.5E7
+revenue: 4.5071715E8
+director: Steven Soderbergh
+popularity: 60.929352
+#########################################
+.
+movieID: 170
+title: My Big Fat Greek Wedding
+budget: 5000000.0
+revenue: 3.68744044E8
+director: Joel Zwick
+popularity: 18.115566
+#########################################
+.
+movieID: 171
+title: Slumdog Millionaire
+budget: 1.5E7
+revenue: 3.77910544E8
+director: Danny Boyle
+popularity: 59.258969
+#########################################
+.
+movieID: 172
+title: Back to the Future
+budget: 1.9E7
+revenue: 3.81109762E8
+director: Robert Zemeckis
+popularity: 76.603233
+#########################################
+.
+movieID: 173
+title: San Andreas
+budget: 1.1E8
+revenue: 4.70490832E8
+director: Brad Peyton
+popularity: 100.412364
+#########################################
+.
+movieID: 174
+title: Cars 2
+budget: 2.0E8
+revenue: 5.59852396E8
+director: Brad Lewis
+popularity: 49.98659
+#########################################
+.
+movieID: 175
+title: 300
+budget: 6.5E7
+revenue: 4.22610419E8
+director: Zack Snyder
+popularity: 65.197968
+#########################################
+.
+movieID: 176
+title: Twilight
+budget: 3.7E7
+revenue: 3.92616625E8
+director: Catherine Hardwicke
+popularity: 127.084938
+#########################################
+.
+movieID: 177
+title: Gladiator
+budget: 1.03E8
+revenue: 4.57640427E8
+director: Ridley Scott
+popularity: 95.301296
+#########################################
+.
+movieID: 178
+title: Brave
+budget: 1.85E8
+revenue: 5.38983207E8
+director: Steve Purcell
+popularity: 125.114374
+#########################################
+.
+movieID: 179
+title: Teenage Mutant Ninja Turtles
+budget: 1.25E8
+revenue: 4.772E8
+director: Jonathan Liebesman
+popularity: 143.350376
+#########################################
+.
+movieID: 180
+title: There's Something About Mary
+budget: 2.3E7
+revenue: 3.69884651E8
+director: Peter Farrelly
+popularity: 57.110486
+#########################################
+.
+movieID: 181
+title: Toy Story
+budget: 3.0E7
+revenue: 3.73554033E8
+director: John Lasseter
+popularity: 73.640445
+#########################################
+.
+movieID: 182
+title: King Kong
+budget: 2.07E8
+revenue: 5.5E8
+director: Peter Jackson
+popularity: 61.22601
+#########################################
+.
+movieID: 183
+title: Robin Hood: Prince of Thieves
+budget: 4.8E7
+revenue: 3.90493908E8
+director: Kevin Reynolds
+popularity: 28.803729
+#########################################
+.
+movieID: 184
+title: Cars
+budget: 1.2E8
+revenue: 4.61983149E8
+director: Joe Ranft
+popularity: 82.643036
+#########################################
+.
+movieID: 185
+title: Top Gun
+budget: 1.5E7
+revenue: 3.56830601E8
+director: Tony Scott
+popularity: 58.900647
+#########################################
+.
+movieID: 186
+title: American Beauty
+budget: 1.5E7
+revenue: 3.56296601E8
+director: Sam Mendes
+popularity: 80.878605
+#########################################
+.
+movieID: 187
+title: Home Alone 2: Lost in New York
+budget: 1.8E7
+revenue: 3.58991681E8
+director: Chris Columbus
+popularity: 81.487685
+#########################################
+.
+movieID: 188
+title: Cast Away
+budget: 9.0E7
+revenue: 4.29632142E8
+director: Robert Zemeckis
+popularity: 57.739713
+#########################################
+.
+movieID: 189
+title: Signs
+budget: 7.2E7
+revenue: 4.08247917E8
+director: M. Night Shyamalan
+popularity: 28.848187
+#########################################
+.
+movieID: 190
+title: The Mummy Returns
+budget: 9.8E7
+revenue: 4.33013274E8
+director: Stephen Sommers
+popularity: 41.862983
+#########################################
+.
+movieID: 191
+title: World War Z
+budget: 2.0E8
+revenue: 5.31865E8
+director: Marc Forster
+popularity: 81.834855
+#########################################
+.
+movieID: 192
+title: Tangled
+budget: 2.6E8
+revenue: 5.91794936E8
+director: Nathan Greno
+popularity: 48.681969
+#########################################
+.
+movieID: 193
+title: Taken 2
+budget: 4.5E7
+revenue: 3.76141306E8
+director: Olivier Megaton
+popularity: 49.353524
+#########################################
+.
+movieID: 194
+title: How to Train Your Dragon
+budget: 1.65E8
+revenue: 4.94878759E8
+director: Dean DeBlois
+popularity: 67.263269
+#########################################
+.
+movieID: 195
+title: The Mask
+budget: 2.3E7
+revenue: 3.51583407E8
+director: Chuck Russell
+popularity: 85.30318
+#########################################
+.
+movieID: 196
+title: Django Unchained
+budget: 1.0E8
+revenue: 4.25368238E8
+director: Quentin Tarantino
+popularity: 82.121691
+#########################################
+.
+movieID: 197
+title: Charlie and the Chocolate Factory
+budget: 1.5E8
+revenue: 4.74968763E8
+director: Tim Burton
+popularity: 53.905592
+#########################################
+.
+movieID: 198
+title: The Fugitive
+budget: 4.4E7
+revenue: 3.6887576E8
+director: Andrew Davis
+popularity: 54.884297
+#########################################
+.
+movieID: 199
+title: Ice Age
+budget: 5.9E7
+revenue: 3.83257136E8
+director: Chris Wedge
+popularity: 99.561972
+#########################################
+.
+movieID: 200
+title: Crocodile Dundee
+budget: 5000000.0
+revenue: 3.28203506E8
+director: Peter Faiman
+popularity: 16.072466
+#########################################
+.
+movieID: 201
+title: Troy
+budget: 1.75E8
+revenue: 4.97409852E8
+director: Wolfgang Petersen
+popularity: 66.803149
+#########################################
+.
+movieID: 202
+title: Notting Hill
+budget: 4.2E7
+revenue: 3.63889678E8
+director: Roger Michell
+popularity: 28.969151
+#########################################
+.
+movieID: 203
+title: Speed
+budget: 3.0E7
+revenue: 3.50448145E8
+director: Jan de Bont
+popularity: 49.526736
+#########################################
+.
+movieID: 204
+title: The Last Samurai
+budget: 1.4E8
+revenue: 4.56758981E8
+director: Edward Zwick
+popularity: 52.341226
+#########################################
+.
+movieID: 205
+title: Black Swan
+budget: 1.3E7
+revenue: 3.27803731E8
+director: Darren Aronofsky
+popularity: 91.285683
+#########################################
+.
+movieID: 206
+title: The Maze Runner
+budget: 3.4E7
+revenue: 3.48319861E8
+director: Wes Ball
+popularity: 131.815575
+#########################################
+.
+movieID: 207
+title: Pearl Harbor
+budget: 1.4E8
+revenue: 4.49220945E8
+director: Michael Bay
+popularity: 34.20669
+#########################################
+.
+movieID: 208
+title: Gone Girl
+budget: 6.1E7
+revenue: 3.69330363E8
+director: David Fincher
+popularity: 143.041543
+#########################################
+.
+movieID: 209
+title: Wreck-It Ralph
+budget: 1.65E8
+revenue: 4.71222889E8
+director: Rich Moore
+popularity: 62.341073
+#########################################
+.
+movieID: 210
+title: Fatal Attraction
+budget: 1.4E7
+revenue: 3.20145693E8
+director: Adrian Lyne
+popularity: 16.742972
+#########################################
+.
+movieID: 211
+title: The Conjuring
+budget: 1.3E7
+revenue: 3.18000141E8
+director: James Wan
+popularity: 49.975409
+#########################################
+.
+movieID: 212
+title: Indiana Jones and the Temple of Doom
+budget: 2.8E7
+revenue: 3.33E8
+director: Steven Spielberg
+popularity: 66.976776
+#########################################
+.
+movieID: 213
+title: What Women Want
+budget: 7.0E7
+revenue: 3.74111707E8
+director: Nancy Meyers
+popularity: 31.39165
+#########################################
+.
+movieID: 214
+title: Apollo 13
+budget: 5.2E7
+revenue: 3.55237933E8
+director: Ron Howard
+popularity: 68.140214
+#########################################
+.
+movieID: 215
+title: Men in Black II
+budget: 1.4E8
+revenue: 4.41818803E8
+director: Barry Sonnenfeld
+popularity: 91.332849
+#########################################
+.
+movieID: 216
+title: Alvin and the Chipmunks
+budget: 6.0E7
+revenue: 3.61366633E8
+director: Tim Hill
+popularity: 47.336034
+#########################################
+.
+movieID: 217
+title: Beverly Hills Cop
+budget: 1.5E7
+revenue: 3.16360478E8
+director: Martin Brest
+popularity: 29.843818
+#########################################
+.
+movieID: 218
+title: Catch Me If You Can
+budget: 5.2E7
+revenue: 3.52114312E8
+director: Steven Spielberg
+popularity: 73.944049
+#########################################
+.
+movieID: 219
+title: Schindler's List
+budget: 2.2E7
+revenue: 3.21365567E8
+director: Steven Spielberg
+popularity: 104.469351
+#########################################
+.
+movieID: 220
+title: Thor
+budget: 1.5E8
+revenue: 4.49326618E8
+director: Kenneth Branagh
+popularity: 86.493424
+#########################################
+.
+movieID: 221
+title: Hitch
+budget: 7.0E7
+revenue: 3.6810042E8
+director: Andy Tennant
+popularity: 34.576913
+#########################################
+.
+movieID: 222
+title: X2
+budget: 1.1E8
+revenue: 4.07711549E8
+director: Bryan Singer
+popularity: 2.871739
+#########################################
+.
+movieID: 223
+title: The Flintstones
+budget: 4.6E7
+revenue: 3.41631208E8
+director: Brian Levant
+popularity: 28.964162
+#########################################
+.
+movieID: 224
+title: Jason Bourne
+budget: 1.2E8
+revenue: 4.15484914E8
+director: Paul Greengrass
+popularity: 62.641286
+#########################################
+.
+movieID: 225
+title: The Wolverine
+budget: 1.2E8
+revenue: 4.15440673E8
+director: James Mangold
+popularity: 15.953444
+#########################################
+.
+movieID: 226
+title: The Fault in Our Stars
+budget: 1.2E7
+revenue: 3.07166834E8
+director: Josh Boone
+popularity: 74.358971
+#########################################
+.
+movieID: 227
+title: Se7en
+budget: 3.3E7
+revenue: 3.27311859E8
+director: David Fincher
+popularity: 79.579532
+#########################################
+.
+movieID: 228
+title: GoldenEye
+budget: 5.8E7
+revenue: 3.52194034E8
+director: Martin Campbell
+popularity: 59.824565
+#########################################
+.
+movieID: 229
+title: Shark Tale
+budget: 7.5E7
+revenue: 3.67275019E8
+director: Rob Letterman
+popularity: 47.094369
+#########################################
+.
+movieID: 230
+title: The Wolf of Wall Street
+budget: 1.0E8
+revenue: 3.92000694E8
+director: Martin Scorsese
+popularity: 95.007934
+#########################################
+.
+movieID: 231
+title: Back to the Future Part II
+budget: 4.0E7
+revenue: 3.32E8
+director: Robert Zemeckis
+popularity: 43.345252
+#########################################
+.
+movieID: 232
+title: Die Another Day
+budget: 1.4E8
+revenue: 4.31971116E8
+director: Lee Tamahori
+popularity: 54.159392
+#########################################
+.
+movieID: 233
+title: Oz: The Great and Powerful
+budget: 2.0E8
+revenue: 4.91868548E8
+director: Sam Raimi
+popularity: 46.985445
+#########################################
+.
+movieID: 234
+title: The Devil Wears Prada
+budget: 3.5E7
+revenue: 3.26551094E8
+director: David Frankel
+popularity: 83.893257
+#########################################
+.
+movieID: 235
+title: Pocahontas
+budget: 5.5E7
+revenue: 3.46079773E8
+director: Eric Goldberg
+popularity: 47.845589
+#########################################
+.
+movieID: 236
+title: Lethal Weapon 3
+budget: 3.5E7
+revenue: 3.21731527E8
+director: Richard Donner
+popularity: 36.172182
+#########################################
+.
+movieID: 237
+title: Terminator Genisys
+budget: 1.55E8
+revenue: 4.40603537E8
+director: Alan Taylor
+popularity: 202.042635
+#########################################
+.
+movieID: 238
+title: Happy Feet
+budget: 1.0E8
+revenue: 3.84335608E8
+director: George Miller
+popularity: 37.272385
+#########################################
+.
+movieID: 239
+title: Close Encounters of the Third Kind
+budget: 2.0E7
+revenue: 3.03788635E8
+director: Steven Spielberg
+popularity: 52.456505
+#########################################
+.
+movieID: 240
+title: The Blind Side
+budget: 2.9E7
+revenue: 3.09208309E8
+director: John Lee Hancock
+popularity: 25.767395
+#########################################
+.
+movieID: 241
+title: The Conjuring 2
+budget: 4.0E7
+revenue: 3.20170008E8
+director: James Wan
+popularity: 68.794673
+#########################################
+.
+movieID: 242
+title: Beverly Hills Cop II
+budget: 2.0E7
+revenue: 2.99965036E8
+director: Tony Scott
+popularity: 25.28436
+#########################################
+.
+movieID: 243
+title: The Sound of Music
+budget: 8200000.0
+revenue: 2.86214286E8
+director: Robert Wise
+popularity: 37.960289
+#########################################
+.
+movieID: 244
+title: Austin Powers: The Spy Who Shagged Me
+budget: 3.3E7
+revenue: 3.10940086E8
+director: Jay Roach
+popularity: 18.316151
+#########################################
+.
+movieID: 245
+title: Taken 3
+budget: 4.8E7
+revenue: 3.25771424E8
+director: Olivier Megaton
+popularity: 88.844777
+#########################################
+.
+movieID: 246
+title: The Proposal
+budget: 4.0E7
+revenue: 3.17375031E8
+director: Anne Fletcher
+popularity: 36.238968
+#########################################
+.
+movieID: 247
+title: Star Trek Into Darkness
+budget: 1.9E8
+revenue: 4.67365246E8
+director: J.J. Abrams
+popularity: 78.291018
+#########################################
+.
+movieID: 248
+title: The Angry Birds Movie
+budget: 7.3E7
+revenue: 3.49779543E8
+director: Clay Kaytis
+popularity: 45.720894
+#########################################
+.
+movieID: 249
+title: Journey 2: The Mysterious Island
+budget: 7.9E7
+revenue: 3.5569276E8
+director: Brad Peyton
+popularity: 40.723459
+#########################################
+.
+movieID: 250
+title: Die Hard: With a Vengeance
+budget: 9.0E7
+revenue: 3.66101666E8
+director: John McTiernan
+popularity: 51.881077
+#########################################
+.
+movieID: 251
+title: Jurassic Park III
+budget: 9.3E7
+revenue: 3.68780809E8
+director: Joe Johnston
+popularity: 1.859364
+#########################################
+.
+movieID: 252
+title: Meet the Parents
+budget: 5.5E7
+revenue: 3.30444045E8
+director: Jay Roach
+popularity: 29.97224
+#########################################
+.
+movieID: 253
+title: The Matrix Revolutions
+budget: 1.5E8
+revenue: 4.24988211E8
+director: Lana Wachowski
+popularity: 73.313918
+#########################################
+.
+movieID: 254
+title: Warcraft
+budget: 1.6E8
+revenue: 4.33677183E8
+director: Duncan Jones
+popularity: 63.148529
+#########################################
+.
+movieID: 255
+title: Live Free or Die Hard
+budget: 1.1E8
+revenue: 3.83531464E8
+director: Len Wiseman
+popularity: 48.93337
+#########################################
+.
+movieID: 256
+title: Hotel Transylvania
+budget: 8.5E7
+revenue: 3.58375603E8
+director: Genndy Tartakovsky
+popularity: 56.257411
+#########################################
+.
+movieID: 257
+title: Prometheus
+budget: 1.3E8
+revenue: 4.03170142E8
+director: Ridley Scott
+popularity: 68.889395
+#########################################
+.
+movieID: 258
+title: Alvin and the Chipmunks: Chipwrecked
+budget: 7.5E7
+revenue: 3.42695435E8
+director: Mike Mitchell
+popularity: 23.473004
+#########################################
+.
+movieID: 259
+title: Bambi
+budget: 858000.0
+revenue: 2.6744715E8
+director: Norman Wright
+popularity: 47.651878
+#########################################
+.
+movieID: 260
+title: Shakespeare in Love
+budget: 2.5E7
+revenue: 2.89317794E8
+director: John Madden
+popularity: 31.792964
+#########################################
+.
+movieID: 261
+title: As Good as It Gets
+budget: 5.0E7
+revenue: 3.14178011E8
+director: James L. Brooks
+popularity: 37.885022
+#########################################
+.
+movieID: 262
+title: True Lies
+budget: 1.15E8
+revenue: 3.78882411E8
+director: James Cameron
+popularity: 38.729418
+#########################################
+.
+movieID: 263
+title: Over the Hedge
+budget: 8.0E7
+revenue: 3.43397247E8
+director: Tim Johnson
+popularity: 36.32705
+#########################################
+.
+movieID: 264
+title: Night at the Museum: Battle of the Smithsonian
+budget: 1.5E8
+revenue: 4.1310617E8
+director: Shawn Levy
+popularity: 81.781591
+#########################################
+.
+movieID: 265
+title: Planet of the Apes
+budget: 1.0E8
+revenue: 3.6221174E8
+director: Tim Burton
+popularity: 51.188633
+#########################################
+.
+movieID: 266
+title: Chicago
+budget: 4.5E7
+revenue: 3.06776732E8
+director: Rob Marshall
+popularity: 32.217425
+#########################################
+.
+movieID: 267
+title: My Best Friend's Wedding
+budget: 3.8E7
+revenue: 2.99288605E8
+director: P.J. Hogan
+popularity: 15.401855
+#########################################
+.
+movieID: 268
+title: The Chronicles of Narnia: The Voyage of the Dawn Treader
+budget: 1.55E8
+revenue: 4.15686217E8
+director: Michael Apted
+popularity: 49.661984
+#########################################
+.
+movieID: 269
+title: The Rock
+budget: 7.5E7
+revenue: 3.35062621E8
+director: Michael Bay
+popularity: 51.469576
+#########################################
+.
+movieID: 270
+title: Spirited Away
+budget: 1.5E7
+revenue: 2.74925095E8
+director: Hayao Miyazaki
+popularity: 118.968562
+#########################################
+.
+movieID: 271
+title: Pitch Perfect 2
+budget: 2.9E7
+revenue: 2.87506194E8
+director: Elizabeth Banks
+popularity: 71.496894
+#########################################
+.
+movieID: 272
+title: American Pie 2
+budget: 3.0E7
+revenue: 2.87553595E8
+director: J.B. Rogers
+popularity: 36.432598
+#########################################
+.
+movieID: 273
+title: Rush Hour 2
+budget: 9.0E7
+revenue: 3.47325802E8
+director: Brett Ratner
+popularity: 35.814765
+#########################################
+.
+movieID: 274
+title: Bridget Jones's Diary
+budget: 2.5E7
+revenue: 2.81929795E8
+director: Sharon Maguire
+popularity: 35.310712
+#########################################
+.
+movieID: 275
+title: Rambo: First Blood Part II
+budget: 4.4E7
+revenue: 3.00400432E8
+director: George P. Cosmatos
+popularity: 38.653969
+#########################################
+.
+movieID: 276
+title: Minority Report
+budget: 1.02E8
+revenue: 3.58372926E8
+director: Steven Spielberg
+popularity: 65.948959
+#########################################
+.
+movieID: 277
+title: The Mummy: Tomb of the Dragon Emperor
+budget: 1.45E8
+revenue: 4.01128639E8
+director: Rob Cohen
+popularity: 60.034162
+#########################################
+.
+movieID: 278
+title: Bridesmaids
+budget: 3.25E7
+revenue: 2.88383523E8
+director: Paul Feig
+popularity: 17.107065
+#########################################
+.
+movieID: 279
+title: Enchanted
+budget: 8.5E7
+revenue: 3.40487652E8
+director: Kevin Lima
+popularity: 29.21998
+#########################################
+.
+movieID: 280
+title: The Full Monty
+budget: 3500000.0
+revenue: 2.57850122E8
+director: Peter Cattaneo
+popularity: 17.002623
+#########################################
+.
+movieID: 281
+title: The Silence of the Lambs
+budget: 1.9E7
+revenue: 2.72742922E8
+director: Jonathan Demme
+popularity: 18.174804
+#########################################
+.
+movieID: 282
+title: Wild Hogs
+budget: 0.0
+revenue: 2.53625427E8
+director: Walt Becker
+popularity: 31.719463
+#########################################
+.
+movieID: 283
+title: A Beautiful Mind
+budget: 6.0E7
+revenue: 3.13542341E8
+director: Ron Howard
+popularity: 59.248437
+#########################################
+.
+movieID: 284
+title: Ocean's Twelve
+budget: 1.1E8
+revenue: 3.6274428E8
+director: Steven Soderbergh
+popularity: 76.840712
+#########################################
+.
+movieID: 285
+title: The Pursuit of Happyness
+budget: 5.5E7
+revenue: 3.07077295E8
+director: Gabriele Muccino
+popularity: 80.581367
+#########################################
+.
+movieID: 286
+title: Maze Runner: The Scorch Trials
+budget: 6.1E7
+revenue: 3.11256926E8
+director: Wes Ball
+popularity: 113.161483
+#########################################
+.
+movieID: 287
+title: Neighbors
+budget: 1.8E7
+revenue: 2.681574E8
+director: Nicholas Stoller
+popularity: 36.471231
+#########################################
+.
+movieID: 288
+title: X-Men: The Last Stand
+budget: 2.1E8
+revenue: 4.59359555E8
+director: Brett Ratner
+popularity: 3.857526
+#########################################
+.
+movieID: 289
+title: Inglourious Basterds
+budget: 7.0E7
+revenue: 3.1913105E8
+director: Quentin Tarantino
+popularity: 72.595961
+#########################################
+.
+movieID: 290
+title: Annabelle
+budget: 6500000.0
+revenue: 2.55273813E8
+director: John R. Leonetti
+popularity: 60.225219
+#########################################
+.
+movieID: 291
+title: Four Weddings and a Funeral
+budget: 6000000.0
+revenue: 2.54700832E8
+director: Mike Newell
+popularity: 29.834065
+#########################################
+.
+movieID: 292
+title: The Prince
+budget: 1.8E7
+revenue: 2.665868E8
+director: Brian A Miller
+popularity: 21.638673
+#########################################
+.
+movieID: 293
+title: The Blair Witch Project
+budget: 60000.0
+revenue: 2.48E8
+director: Eduardo Sánchez
+popularity: 41.690578
+#########################################
+.
+movieID: 294
+title: Mission: Impossible III
+budget: 1.5E8
+revenue: 3.97850012E8
+director: J.J. Abrams
+popularity: 63.079003
+#########################################
+.
+movieID: 295
+title: National Treasure
+budget: 1.0E8
+revenue: 3.47451894E8
+director: Jon Turteltaub
+popularity: 58.849256
+#########################################
+.
+movieID: 296
+title: The Great Gatsby
+budget: 1.05E8
+revenue: 3.51040419E8
+director: Baz Luhrmann
+popularity: 61.196071
+#########################################
+.
+movieID: 297
+title: Superman
+budget: 5.5E7
+revenue: 3.00218018E8
+director: Richard Donner
+popularity: 48.507081
+#########################################
+.
+movieID: 298
+title: Now You See Me 2
+budget: 9.0E7
+revenue: 3.34901337E8
+director: Jon M. Chu
+popularity: 51.535701
+#########################################
+.
+movieID: 299
+title: Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan
+budget: 1.8E7
+revenue: 2.61572744E8
+director: Larry Charles
+popularity: 29.487784
+#########################################
+.
+movieID: 300
+title: A Bug's Life
+budget: 1.2E8
+revenue: 3.63258859E8
+director: John Lasseter
+popularity: 87.350802
+#########################################
+.
+movieID: 301
+title: The Smurfs 2
+budget: 1.05E8
+revenue: 3.47434178E8
+director: Raja Gosnell
+popularity: 32.473628
+#########################################
+.
+movieID: 302
+title: The Adventures of Tintin
+budget: 1.3E8
+revenue: 3.71940071E8
+director: Steven Spielberg
+popularity: 89.938296
+#########################################
+.
+movieID: 303
+title: G.I. Joe: Retaliation
+budget: 1.3E8
+revenue: 3.71876278E8
+director: Jon M. Chu
+popularity: 59.325589
+#########################################
+.
+movieID: 304
+title: Penguins of Madagascar
+budget: 1.32E8
+revenue: 3.73552094E8
+director: Simon J. Smith
+popularity: 84.366984
+#########################################
+.
+movieID: 305
+title: Resident Evil: Afterlife
+budget: 6.0E7
+revenue: 3.00228084E8
+director: Paul W.S. Anderson
+popularity: 2.143764
+#########################################
+.
+movieID: 306
+title: Crocodile Dundee II
+budget: 0.0
+revenue: 2.3960621E8
+director: John Cornell
+popularity: 15.474831
+#########################################
+.
+movieID: 307
+title: Runaway Bride
+budget: 7.0E7
+revenue: 3.09457509E8
+director: Garry Marshall
+popularity: 20.230535
+#########################################
+.
+movieID: 308
+title: The Godfather
+budget: 6000000.0
+revenue: 2.45066411E8
+director: Francis Ford Coppola
+popularity: 143.659698
+#########################################
+.
+movieID: 309
+title: Casper
+budget: 5.0E7
+revenue: 2.87928194E8
+director: Brad Silberling
+popularity: 19.830132
+#########################################
+.
+movieID: 310
+title: Noah
+budget: 1.25E8
+revenue: 3.62637473E8
+director: Darren Aronofsky
+popularity: 46.115758
+#########################################
+.
+movieID: 311
+title: The SpongeBob Movie: Sponge Out of Water
+budget: 7.4E7
+revenue: 3.11594032E8
+director: Paul Tibbitt
+popularity: 36.952268
+#########################################
+.
+movieID: 312
+title: Gran Torino
+budget: 3.3E7
+revenue: 2.69958228E8
+director: Clint Eastwood
+popularity: 50.7453
+#########################################
+.
+movieID: 313
+title: Batman Forever
+budget: 1.0E8
+revenue: 3.36529144E8
+director: Joel Schumacher
+popularity: 48.205606
+#########################################
+.
+movieID: 314
+title: Star Trek
+budget: 1.5E8
+revenue: 3.85680446E8
+director: J.J. Abrams
+popularity: 73.616808
+#########################################
+.
+movieID: 315
+title: Terminator 3: Rise of the Machines
+budget: 2.0E8
+revenue: 4.35E8
+director: Jonathan Mostow
+popularity: 69.405188
+#########################################
+.
+movieID: 316
+title: Home
+budget: 1.35E8
+revenue: 3.68871007E8
+director: Tim Johnson
+popularity: 63.473086
+#########################################
+.
+movieID: 317
+title: Alvin and the Chipmunks: The Road Chip
+budget: 0.0
+revenue: 2.33755553E8
+director: Walt Becker
+popularity: 27.867368
+#########################################
+.
+movieID: 318
+title: Austin Powers in Goldmember
+budget: 6.3E7
+revenue: 2.96655431E8
+director: Jay Roach
+popularity: 40.137264
+#########################################
+.
+movieID: 319
+title: We're the Millers
+budget: 3.7E7
+revenue: 2.69994119E8
+director: Rawson Marshall Thurber
+popularity: 100.348805
+#########################################
+.
+movieID: 320
+title: Dumb and Dumber
+budget: 1.6E7
+revenue: 2.47275374E8
+director: Peter Farrelly
+popularity: 35.777067
+#########################################
+.
+movieID: 321
+title: Hook
+budget: 7.0E7
+revenue: 3.00854823E8
+director: Steven Spielberg
+popularity: 33.648404
+#########################################
+.
+movieID: 322
+title: Captain America: The First Avenger
+budget: 1.4E8
+revenue: 3.70569774E8
+director: Joe Johnston
+popularity: 74.506246
+#########################################
+.
+movieID: 323
+title: Air Force One
+budget: 8.5E7
+revenue: 3.15156409E8
+director: Wolfgang Petersen
+popularity: 36.38795
+#########################################
+.
+movieID: 324
+title: TRON: Legacy
+budget: 1.7E8
+revenue: 4.00062763E8
+director: Joseph Kosinski
+popularity: 73.79505
+#########################################
+.
+movieID: 325
+title: Ransom
+budget: 8.0E7
+revenue: 3.09492681E8
+director: Ron Howard
+popularity: 16.411345
+#########################################
+.
+movieID: 326
+title: Mad Max: Fury Road
+budget: 1.5E8
+revenue: 3.7885834E8
+director: George Miller
+popularity: 434.278564
+#########################################
+.
+movieID: 327
+title: The Firm
+budget: 4.2E7
+revenue: 2.70248367E8
+director: Sydney Pollack
+popularity: 23.736535
+#########################################
+.
+movieID: 328
+title: Pacific Rim
+budget: 1.8E8
+revenue: 4.07602906E8
+director: Guillermo del Toro
+popularity: 56.523205
+#########################################
+.
+movieID: 329
+title: 300: Rise of an Empire
+budget: 1.1E8
+revenue: 3.37580051E8
+director: Noam Murro
+popularity: 71.510596
+#########################################
+.
+movieID: 330
+title: I, Robot
+budget: 1.2E8
+revenue: 3.47234916E8
+director: Alex Proyas
+popularity: 95.914473
+#########################################
+.
+movieID: 331
+title: The World Is Not Enough
+budget: 1.35E8
+revenue: 3.618324E8
+director: Michael Apted
+popularity: 39.604363
+#########################################
+.
+movieID: 332
+title: Dinosaur
+budget: 1.275E8
+revenue: 3.54248063E8
+director: Eric Leighton
+popularity: 26.548594
+#########################################
+.
+movieID: 333
+title: Snow White and the Huntsman
+budget: 1.7E8
+revenue: 3.966E8
+director: Rupert Sanders
+popularity: 77.178973
+#########################################
+.
+movieID: 334
+title: Ocean's Thirteen
+budget: 8.5E7
+revenue: 3.11312624E8
+director: Steven Soderbergh
+popularity: 42.069993
+#########################################
+.
+movieID: 335
+title: Independence Day: Resurgence
+budget: 1.65E8
+revenue: 3.89681935E8
+director: Roland Emmerich
+popularity: 48.775723
+#########################################
+.
+movieID: 336
+title: The Green Mile
+budget: 6.0E7
+revenue: 2.846E8
+director: Frank Darabont
+popularity: 103.698022
+#########################################
+.
+movieID: 337
+title: American Pie
+budget: 1.1E7
+revenue: 2.35483004E8
+director: Paul Weitz
+popularity: 60.767168
+#########################################
+.
+movieID: 338
+title: Batman Begins
+budget: 1.5E8
+revenue: 3.74218673E8
+director: Christopher Nolan
+popularity: 115.040024
+#########################################
+.
+movieID: 339
+title: Babe
+budget: 3.0E7
+revenue: 2.5413491E8
+director: Chris Noonan
+popularity: 34.36645
+#########################################
+.
+movieID: 340
+title: Juno
+budget: 7500000.0
+revenue: 2.31411584E8
+director: Jason Reitman
+popularity: 19.782725
+#########################################
+.
+movieID: 341
+title: Jerry Maguire
+budget: 5.0E7
+revenue: 2.73552592E8
+director: Cameron Crowe
+popularity: 27.039636
+#########################################
+.
+movieID: 342
+title: Doctor Dolittle
+budget: 7.1E7
+revenue: 2.94456605E8
+director: Betty Thomas
+popularity: 21.462935
+#########################################
+.
+movieID: 343
+title: X-Men Origins: Wolverine
+budget: 1.5E8
+revenue: 3.73062864E8
+director: Gavin Hood
+popularity: 5.954334
+#########################################
+.
+movieID: 344
+title: Tomorrow Never Dies
+budget: 1.1E8
+revenue: 3.33011068E8
+director: Roger Spottiswoode
+popularity: 42.887121
+#########################################
+.
+movieID: 345
+title: Night at the Museum: Secret of the Tomb
+budget: 1.27E8
+revenue: 3.49424282E8
+director: Shawn Levy
+popularity: 115.597753
+#########################################
+.
+movieID: 346
+title: How the Grinch Stole Christmas
+budget: 1.23E8
+revenue: 3.45141403E8
+director: Ron Howard
+popularity: 45.419668
+#########################################
+.
+movieID: 347
+title: X-Men
+budget: 7.5E7
+revenue: 2.96339527E8
+director: Bryan Singer
+popularity: 4.66891
+#########################################
+.
+movieID: 348
+title: The Imitation Game
+budget: 1.4E7
+revenue: 2.33555708E8
+director: Morten Tyldum
+popularity: 145.364591
+#########################################
+.
+movieID: 349
+title: Dead Poets Society
+budget: 1.64E7
+revenue: 2.35860116E8
+director: Peter Weir
+popularity: 55.458584
+#########################################
+.
+movieID: 350
+title: Good Will Hunting
+budget: 1.0E7
+revenue: 2.25933435E8
+director: Gus Van Sant
+popularity: 43.734886
+#########################################
+.
+movieID: 351
+title: Shutter Island
+budget: 8.0E7
+revenue: 2.94804195E8
+director: Martin Scorsese
+popularity: 81.914696
+#########################################
+.
+movieID: 352
+title: Mulan
+budget: 9.0E7
+revenue: 3.04320254E8
+director: Barry Cook
+popularity: 67.427755
+#########################################
+.
+movieID: 353
+title: True Grit
+budget: 3.8E7
+revenue: 2.52276927E8
+director: Ethan Coen
+popularity: 49.292384
+#########################################
+.
+movieID: 354
+title: The Bourne Supremacy
+budget: 7.5E7
+revenue: 2.88500217E8
+director: Paul Greengrass
+popularity: 53.213931
+#########################################
+.
+movieID: 355
+title: A Good Day to Die Hard
+budget: 9.2E7
+revenue: 3.04654182E8
+director: John Moore
+popularity: 65.402595
+#########################################
+.
+movieID: 356
+title: The Expendables 2
+budget: 1.0E8
+revenue: 3.12573423E8
+director: Simon West
+popularity: 53.732892
+#########################################
+.
+movieID: 357
+title: American Hustle
+budget: 4.0E7
+revenue: 2.51171807E8
+director: David O. Russell
+popularity: 49.664128
+#########################################
+.
+movieID: 358
+title: Howl's Moving Castle
+budget: 2.4E7
+revenue: 2.34710455E8
+director: Hayao Miyazaki
+popularity: 49.549984
+#########################################
+.
+movieID: 359
+title: Little Fockers
+budget: 1.0E8
+revenue: 3.10650585E8
+director: Paul Weitz
+popularity: 32.389353
+#########################################
+.
+movieID: 360
+title: Lincoln
+budget: 6.5E7
+revenue: 2.7529345E8
+director: Steven Spielberg
+popularity: 36.307296
+#########################################
+.
+movieID: 361
+title: Super 8
+budget: 5.0E7
+revenue: 2.60095987E8
+director: J.J. Abrams
+popularity: 37.069253
+#########################################
+.
+movieID: 362
+title: Sherlock Holmes: A Game of Shadows
+budget: 1.25E8
+revenue: 3.34615E8
+director: Guy Ritchie
+popularity: 81.499621
+#########################################
+.
+movieID: 363
+title: xXx
+budget: 7.0E7
+revenue: 2.77448382E8
+director: Rob Cohen
+popularity: 46.217769
+#########################################
+.
+movieID: 364
+title: Angels & Demons
+budget: 1.5E8
+revenue: 3.56613439E8
+director: Ron Howard
+popularity: 67.447636
+#########################################
+.
+movieID: 365
+title: Monsters vs Aliens
+budget: 1.75E8
+revenue: 3.8150987E8
+director: Rob Letterman
+popularity: 36.167578
+#########################################
+.
+movieID: 366
+title: Pulp Fiction
+budget: 8000000.0
+revenue: 2.13928762E8
+director: Quentin Tarantino
+popularity: 121.463076
+#########################################
+.
+movieID: 367
+title: The Perfect Storm
+budget: 1.2E8
+revenue: 3.25756637E8
+director: Wolfgang Petersen
+popularity: 25.752118
+#########################################
+.
+movieID: 368
+title: The English Patient
+budget: 2.7E7
+revenue: 2.31976425E8
+director: Anthony Minghella
+popularity: 29.381878
+#########################################
+.
+movieID: 369
+title: Love Actually
+budget: 4.0E7
+revenue: 2.44931766E8
+director: Richard Curtis
+popularity: 37.073127
+#########################################
+.
+movieID: 370
+title: Mr. Bean's Holiday
+budget: 2.5E7
+revenue: 2.29736344E8
+director: Steve Bendelack
+popularity: 27.683874
+#########################################
+.
+movieID: 371
+title: Back to the Future Part III
+budget: 4.0E7
+revenue: 2.44527583E8
+director: Robert Zemeckis
+popularity: 45.769562
+#########################################
+.
+movieID: 372
+title: Erin Brockovich
+budget: 5.2E7
+revenue: 2.56271286E8
+director: Steven Soderbergh
+popularity: 30.347332
+#########################################
+.
+movieID: 373
+title: Paddington
+budget: 5.5E7
+revenue: 2.59207227E8
+director: Paul King
+popularity: 39.882276
+#########################################
+.
+movieID: 374
+title: The Truman Show
+budget: 6.0E7
+revenue: 2.64118201E8
+director: Peter Weir
+popularity: 56.488027
+#########################################
+.
+movieID: 375
+title: Divergent
+budget: 8.5E7
+revenue: 2.88747895E8
+director: Neil Burger
+popularity: 80.316463
+#########################################
+.
+movieID: 376
+title: A Few Good Men
+budget: 4.0E7
+revenue: 2.43240178E8
+director: Rob Reiner
+popularity: 40.379966
+#########################################
+.
+movieID: 377
+title: Taken
+budget: 2.5E7
+revenue: 2.26830568E8
+director: Pierre Morel
+popularity: 80.879032
+#########################################
+.
+movieID: 378
+title: Twins
+budget: 1.5E7
+revenue: 2.16614388E8
+director: Ivan Reitman
+popularity: 17.638286
+#########################################
+.
+movieID: 379
+title: Paranormal Activity 3
+budget: 5000000.0
+revenue: 2.05703818E8
+director: Ariel Schulman
+popularity: 29.15813
+#########################################
+.
+movieID: 380
+title: Big Daddy
+budget: 3.42E7
+revenue: 2.34801895E8
+director: Dennis Dugan
+popularity: 34.86859
+#########################################
+.
+movieID: 381
+title: Batman Returns
+budget: 8.0E7
+revenue: 2.8E8
+director: Tim Burton
+popularity: 59.113174
+#########################################
+.
+movieID: 382
+title: The Departed
+budget: 9.0E7
+revenue: 2.89847354E8
+director: Martin Scorsese
+popularity: 63.429157
+#########################################
+.
+movieID: 383
+title: The Village
+budget: 6.0E7
+revenue: 2.5669752E8
+director: M. Night Shyamalan
+popularity: 27.491891
+#########################################
+.
+movieID: 384
+title: Crouching Tiger, Hidden Dragon
+budget: 1.7E7
+revenue: 2.13525736E8
+director: Ang Lee
+popularity: 45.742254
+#########################################
+.
+movieID: 385
+title: Total Recall
+budget: 6.5E7
+revenue: 2.61317921E8
+director: Paul Verhoeven
+popularity: 43.129703
+#########################################
+.
+movieID: 386
+title: Bad Teacher
+budget: 2.0E7
+revenue: 2.16197492E8
+director: Jake Kasdan
+popularity: 28.497242
+#########################################
+.
+movieID: 387
+title: The Chronicles of Narnia: Prince Caspian
+budget: 2.25E8
+revenue: 4.19651413E8
+director: Andrew Adamson
+popularity: 53.978602
+#########################################
+.
+movieID: 388
+title: The Expendables
+budget: 8.0E7
+revenue: 2.74470394E8
+director: Sylvester Stallone
+popularity: 77.580661
+#########################################
+.
+movieID: 389
+title: X-Men: First Class
+budget: 1.6E8
+revenue: 3.53624124E8
+director: Matthew Vaughn
+popularity: 3.195174
+#########################################
+.
+movieID: 390
+title: Paranormal Activity
+budget: 15000.0
+revenue: 1.933558E8
+director: Oren Peli
+popularity: 47.456823
+#########################################
+.
+movieID: 391
+title: Daddy's Home
+budget: 5.0E7
+revenue: 2.42786137E8
+director: Sean Anders
+popularity: 38.616744
+#########################################
+.
+movieID: 392
+title: Edge of Tomorrow
+budget: 1.78E8
+revenue: 3.70541256E8
+director: Doug Liman
+popularity: 79.456485
+#########################################
+.
+movieID: 393
+title: The Golden Compass
+budget: 1.8E8
+revenue: 3.72234864E8
+director: Chris Weitz
+popularity: 42.990906
+#########################################
+.
+movieID: 394
+title: Megamind
+budget: 1.3E8
+revenue: 3.21887208E8
+director: Tom McGrath
+popularity: 68.757242
+#########################################
+.
+movieID: 395
+title: Scooby-Doo
+budget: 8.4E7
+revenue: 2.75650703E8
+director: Raja Gosnell
+popularity: 31.435539
+#########################################
+.
+movieID: 396
+title: Grown Ups
+budget: 8.0E7
+revenue: 2.71430189E8
+director: Dennis Dugan
+popularity: 38.864027
+#########################################
+.
+movieID: 397
+title: Real Steel
+budget: 1.1E8
+revenue: 2.99268508E8
+director: Shawn Levy
+popularity: 37.195046
+#########################################
+.
+movieID: 398
+title: Knocked Up
+budget: 3.0E7
+revenue: 2.19076518E8
+director: Judd Apatow
+popularity: 22.527211
+#########################################
+.
+movieID: 399
+title: Sex and the City 2
+budget: 1.0E8
+revenue: 2.88347692E8
+director: Michael Patrick King
+popularity: 18.325897
+#########################################
+.
+movieID: 400
+title: Me Before You
+budget: 2.0E7
+revenue: 2.07945075E8
+director: Thea Sharrock
+popularity: 53.161905
+#########################################
+.
+movieID: 401
+title: Argo
+budget: 4.45E7
+revenue: 2.32324128E8
+director: Ben Affleck
+popularity: 62.01056
+#########################################
+.
+movieID: 402
+title: Kindergarten Cop
+budget: 1.5E7
+revenue: 2.01957688E8
+director: Ivan Reitman
+popularity: 5.411154
+#########################################
+.
+movieID: 403
+title: Million Dollar Baby
+budget: 3.0E7
+revenue: 2.16763646E8
+director: Clint Eastwood
+popularity: 70.456012
+#########################################
+.
+movieID: 404
+title: Something's Gotta Give
+budget: 8.0E7
+revenue: 2.66728738E8
+director: Nancy Meyers
+popularity: 16.939441
+#########################################
+.
+movieID: 405
+title: You've Got Mail
+budget: 6.5E7
+revenue: 2.50821495E8
+director: Nora Ephron
+popularity: 28.540267
+#########################################
+.
+movieID: 406
+title: Robots
+budget: 7.5E7
+revenue: 2.60696994E8
+director: Carlos Saldanha
+popularity: 29.558157
+#########################################
+.
+movieID: 407
+title: Insurgent
+budget: 1.1E8
+revenue: 2.95238201E8
+director: Robert Schwentke
+popularity: 103.718387
+#########################################
+.
+movieID: 408
+title: Prince of Persia: The Sands of Time
+budget: 1.5E8
+revenue: 3.35154643E8
+director: Mike Newell
+popularity: 62.169881
+#########################################
+.
+movieID: 409
+title: Cliffhanger
+budget: 7.0E7
+revenue: 2.55000211E8
+director: Renny Harlin
+popularity: 26.19909
+#########################################
+.
+movieID: 410
+title: American Reunion
+budget: 5.0E7
+revenue: 2.34989584E8
+director: Hayden Schlossberg
+popularity: 39.920035
+#########################################
+.
+movieID: 411
+title: The Social Network
+budget: 4.0E7
+revenue: 2.24920315E8
+director: David Fincher
+popularity: 69.27822
+#########################################
+.
+movieID: 412
+title: Silver Linings Playbook
+budget: 2.1E7
+revenue: 2.05738714E8
+director: David O. Russell
+popularity: 63.599973
+#########################################
+.
+movieID: 413
+title: Marley & Me
+budget: 6.0E7
+revenue: 2.44082376E8
+director: David Frankel
+popularity: 30.951203
+#########################################
+.
+movieID: 414
+title: The Curious Case of Benjamin Button
+budget: 1.5E8
+revenue: 3.33932083E8
+director: David Fincher
+popularity: 60.269279
+#########################################
+.
+movieID: 415
+title: Snow White and the Seven Dwarfs
+budget: 1488423.0
+revenue: 1.84925486E8
+director: David Hand
+popularity: 80.171283
+#########################################
+.
+movieID: 416
+title: Salt
+budget: 1.1E8
+revenue: 2.93329073E8
+director: Phillip Noyce
+popularity: 48.829437
+#########################################
+.
+movieID: 417
+title: Wanted
+budget: 7.5E7
+revenue: 2.58270008E8
+director: Timur Bekmambetov
+popularity: 73.82289
+#########################################
+.
+movieID: 418
+title: Ace Ventura: When Nature Calls
+budget: 3.0E7
+revenue: 2.12385533E8
+director: Steve Oedekerk
+popularity: 34.391792
+#########################################
+.
+movieID: 419
+title: Scooby-Doo 2: Monsters Unleashed
+budget: 0.0
+revenue: 1.81466833E8
+director: Raja Gosnell
+popularity: 22.644275
+#########################################
+.
+movieID: 420
+title: District 9
+budget: 3.0E7
+revenue: 2.10819611E8
+director: Neill Blomkamp
+popularity: 63.13678
+#########################################
+.
+movieID: 421
+title: Philadelphia
+budget: 2.6E7
+revenue: 2.0667844E8
+director: Jonathan Demme
+popularity: 44.301745
+#########################################
+.
+movieID: 422
+title: Chicken Run
+budget: 4.5E7
+revenue: 2.24834564E8
+director: Peter Lord
+popularity: 31.789029
+#########################################
+.
+movieID: 423
+title: The Tourist
+budget: 1.0E8
+revenue: 2.78731369E8
+director: Florian Henckel von Donnersmarck
+popularity: 41.426678
+#########################################
+.
+movieID: 424
+title: The Legend of Tarzan
+budget: 1.8E8
+revenue: 3.56743061E8
+director: David Yates
+popularity: 42.741719
+#########################################
+.
+movieID: 425
+title: American Wedding
+budget: 5.5E7
+revenue: 2.31449203E8
+director: Jesse Dylan
+popularity: 36.194802
+#########################################
+.
+movieID: 426
+title: Moonraker
+budget: 3.4E7
+revenue: 2.10308099E8
+director: Lewis Gilbert
+popularity: 29.887404
+#########################################
+.
+movieID: 427
+title: Dracula
+budget: 4.0E7
+revenue: 2.15862692E8
+director: Francis Ford Coppola
+popularity: 45.022964
+#########################################
+.
+movieID: 428
+title: Grease
+budget: 6000000.0
+revenue: 1.8181377E8
+director: Randal Kleiser
+popularity: 67.608041
+#########################################
+.
+movieID: 429
+title: Resident Evil: Retribution
+budget: 6.5E7
+revenue: 2.40159255E8
+director: Paul W.S. Anderson
+popularity: 6.227675
+#########################################
+.
+movieID: 430
+title: Hansel & Gretel: Witch Hunters
+budget: 5.0E7
+revenue: 2.24803475E8
+director: Tommy Wirkola
+popularity: 53.02787
+#########################################
+.
+movieID: 431
+title: Paranormal Activity 2
+budget: 3000000.0
+revenue: 1.77512032E8
+director: Tod Williams
+popularity: 22.789649
+#########################################
+.
+movieID: 432
+title: The Hangover Part II
+budget: 8.0E7
+revenue: 2.54455986E8
+director: Todd Phillips
+popularity: 58.040149
+#########################################
+.
+movieID: 433
+title: 8 Mile
+budget: 4.1E7
+revenue: 2.15E8
+director: Curtis Hanson
+popularity: 32.798571
+#########################################
+.
+movieID: 434
+title: The Fifth Element
+budget: 9.0E7
+revenue: 2.6392018E8
+director: Luc Besson
+popularity: 109.528572
+#########################################
+.
+movieID: 435
+title: Straight Outta Compton
+budget: 2.8E7
+revenue: 2.01634991E8
+director: F. Gary Gray
+popularity: 61.76233
+#########################################
+.
+movieID: 436
+title: The Grudge
+budget: 1.0E7
+revenue: 1.83474602E8
+director: Takashi Shimizu
+popularity: 35.695442
+#########################################
+.
+movieID: 437
+title: Unbreakable
+budget: 7.5E7
+revenue: 2.48118121E8
+director: M. Night Shyamalan
+popularity: 42.006908
+#########################################
+.
+movieID: 438
+title: Non-Stop
+budget: 5.0E7
+revenue: 2.228096E8
+director: Jaume Collet-Serra
+popularity: 83.295796
+#########################################
+.
+movieID: 439
+title: Scary Movie 3
+budget: 4.8E7
+revenue: 2.20673217E8
+director: David Zucker
+popularity: 36.585509
+#########################################
+.
+movieID: 440
+title: Charlie's Angels
+budget: 9.2E7
+revenue: 2.64105545E8
+director: McG
+popularity: 40.20395
+#########################################
+.
+movieID: 441
+title: The Spy Who Loved Me
+budget: 1.4E7
+revenue: 1.85438673E8
+director: Lewis Gilbert
+popularity: 27.17347
+#########################################
+.
+movieID: 442
+title: Terminator Salvation
+budget: 2.0E8
+revenue: 3.71353001E8
+director: McG
+popularity: 71.862892
+#########################################
+.
+movieID: 443
+title: Elysium
+budget: 1.15E8
+revenue: 2.861407E8
+director: Neill Blomkamp
+popularity: 67.33767
+#########################################
+.
+movieID: 444
+title: Cloudy with a Chance of Meatballs 2
+budget: 7.8E7
+revenue: 2.48384621E8
+director: Kris Pearn
+popularity: 41.247402
+#########################################
+.
+movieID: 445
+title: Space Jam
+budget: 8.0E7
+revenue: 2.502E8
+director: Joe Pytka
+popularity: 36.125715
+#########################################
+.
+movieID: 446
+title: Die Hard 2
+budget: 7.0E7
+revenue: 2.40031094E8
+director: Renny Harlin
+popularity: 57.69847
+#########################################
+.
+movieID: 447
+title: The Fast and the Furious
+budget: 3.8E7
+revenue: 2.07283925E8
+director: Rob Cohen
+popularity: 6.909942
+#########################################
+.
+movieID: 448
+title: The Hunt for Red October
+budget: 3.0E7
+revenue: 1.992E8
+director: John McTiernan
+popularity: 46.212155
+#########################################
+.
+movieID: 449
+title: The Last Airbender
+budget: 1.5E8
+revenue: 3.18502923E8
+director: M. Night Shyamalan
+popularity: 33.769336
+#########################################
+.
+movieID: 450
+title: Epic
+budget: 1.0E8
+revenue: 2.68426634E8
+director: Chris Wedge
+popularity: 36.711378
+#########################################
+.
+movieID: 451
+title: Flightplan
+budget: 5.5E7
+revenue: 2.23387299E8
+director: Robert Schwentke
+popularity: 32.05145
+#########################################
+.
+movieID: 452
+title: Jaws 2
+budget: 2.0E7
+revenue: 1.87884007E8
+director: Jeannot Szwarc
+popularity: 19.636044
+#########################################
+.
+movieID: 453
+title: The Santa Clause
+budget: 2.2E7
+revenue: 1.89833357E8
+director: John Pasquin
+popularity: 16.234053
+#########################################
+.
+movieID: 454
+title: For Your Eyes Only
+budget: 2.8E7
+revenue: 1.95312802E8
+director: John Glen
+popularity: 26.090746
+#########################################
+.
+movieID: 455
+title: The Ugly Truth
+budget: 3.8E7
+revenue: 2.05298907E8
+director: Robert Luketic
+popularity: 22.332927
+#########################################
+.
+movieID: 456
+title: Stuart Little
+budget: 1.33E8
+revenue: 3.00135367E8
+director: Rob Minkoff
+popularity: 30.475297
+#########################################
+.
+movieID: 457
+title: Miss Congeniality
+budget: 4.5E7
+revenue: 2.12E8
+director: Donald Petrie
+popularity: 32.624355
+#########################################
+.
+movieID: 458
+title: 12 Years a Slave
+budget: 2.0E7
+revenue: 1.87E8
+director: Steve McQueen
+popularity: 95.9229
+#########################################
+.
+movieID: 459
+title: Grown Ups 2
+budget: 8.0E7
+revenue: 2.46984278E8
+director: Dennis Dugan
+popularity: 45.589568
+#########################################
+.
+movieID: 460
+title: Central Intelligence
+budget: 5.0E7
+revenue: 2.16972543E8
+director: Rawson Marshall Thurber
+popularity: 45.318703
+#########################################
+.
+movieID: 461
+title: American Gangster
+budget: 1.0E8
+revenue: 2.66465037E8
+director: Ridley Scott
+popularity: 42.361215
+#########################################
+.
+movieID: 462
+title: Oblivion
+budget: 1.2E8
+revenue: 2.86168572E8
+director: Joseph Kosinski
+popularity: 67.698004
+#########################################
+.
+movieID: 463
+title: The Vow
+budget: 3.0E7
+revenue: 1.9611457E8
+director: Michael Sucsy
+popularity: 26.780961
+#########################################
+.
+movieID: 464
+title: Face/Off
+budget: 8.0E7
+revenue: 2.45676146E8
+director: John Woo
+popularity: 46.075037
+#########################################
+.
+movieID: 465
+title: JFK
+budget: 4.0E7
+revenue: 2.05405498E8
+director: Oliver Stone
+popularity: 26.82041
+#########################################
+.
+movieID: 466
+title: Aliens
+budget: 1.85E7
+revenue: 1.83316455E8
+director: James Cameron
+popularity: 67.66094
+#########################################
+.
+movieID: 467
+title: Valentine's Day
+budget: 5.2E7
+revenue: 2.16485654E8
+director: Garry Marshall
+popularity: 25.41929
+#########################################
+.
+movieID: 468
+title: Chicken Little
+budget: 1.5E8
+revenue: 3.14432665E8
+director: Mark Dindal
+popularity: 47.973995
+#########################################
+.
+movieID: 469
+title: Brokeback Mountain
+budget: 1.4E7
+revenue: 1.78043761E8
+director: Ang Lee
+popularity: 44.135568
+#########################################
+.
+movieID: 470
+title: Bad Moms
+budget: 2.0E7
+revenue: 1.83936074E8
+director: Scott Moore
+popularity: 42.512296
+#########################################
+.
+movieID: 471
+title: Interview with the Vampire
+budget: 6.0E7
+revenue: 2.23664608E8
+director: Neil Jordan
+popularity: 50.163785
+#########################################
+.
+movieID: 472
+title: The Waterboy
+budget: 2.3E7
+revenue: 1.85991646E8
+director: Frank Coraci
+popularity: 23.839127
+#########################################
+.
+movieID: 473
+title: Into the Woods
+budget: 5.0E7
+revenue: 2.12902372E8
+director: Rob Marshall
+popularity: 65.90161
+#########################################
+.
+movieID: 474
+title: The Curse of the Were-Rabbit
+budget: 3.0E7
+revenue: 1.92452832E8
+director: Steve Box
+popularity: 30.380747
+#########################################
+.
+movieID: 475
+title: The Princess and the Frog
+budget: 1.05E8
+revenue: 2.67045765E8
+director: John Musker
+popularity: 62.479574
+#########################################
+.
+movieID: 476
+title: Rise of the Guardians
+budget: 1.45E8
+revenue: 3.0694167E8
+director: Peter Ramsey
+popularity: 61.788035
+#########################################
+.
+movieID: 477
+title: The Addams Family
+budget: 3.0E7
+revenue: 1.91502426E8
+director: Barry Sonnenfeld
+popularity: 37.179547
+#########################################
+.
+movieID: 478
+title: Enemy of the State
+budget: 9.0E7
+revenue: 2.50649836E8
+director: Tony Scott
+popularity: 41.207568
+#########################################
+.
+movieID: 479
+title: 2 Fast 2 Furious
+budget: 7.6E7
+revenue: 2.36350661E8
+director: John Singleton
+popularity: 10.520961
+#########################################
+.
+movieID: 480
+title: Magic Mike
+budget: 7000000.0
+revenue: 1.67221571E8
+director: Steven Soderbergh
+popularity: 35.897151
+#########################################
+.
+movieID: 481
+title: Octopussy
+budget: 2.75E7
+revenue: 1.875E8
+director: John Glen
+popularity: 25.633663
+#########################################
+.
+movieID: 482
+title: Bolt
+budget: 1.5E8
+revenue: 3.09979994E8
+director: Byron Howard
+popularity: 41.845878
+#########################################
+.
+movieID: 483
+title: Lara Croft: Tomb Raider
+budget: 1.15E8
+revenue: 2.7470334E8
+director: Simon West
+popularity: 41.498631
+#########################################
+.
+movieID: 484
+title: 21 Jump Street
+budget: 4.2E7
+revenue: 2.01585328E8
+director: Christopher Miller
+popularity: 62.714026
+#########################################
+.
+movieID: 485
+title: The Intern
+budget: 3.5E7
+revenue: 1.94564672E8
+director: Nancy Meyers
+popularity: 53.114573
+#########################################
+.
+movieID: 486
+title: Traffic
+budget: 4.8E7
+revenue: 2.07515725E8
+director: Steven Soderbergh
+popularity: 25.170217
+#########################################
+.
+movieID: 487
+title: The Terminal
+budget: 6.0E7
+revenue: 2.19417255E8
+director: Steven Spielberg
+popularity: 57.753914
+#########################################
+.
+movieID: 488
+title: Fantastic 4: Rise of the Silver Surfer
+budget: 1.3E8
+revenue: 2.89047763E8
+director: Tim Story
+popularity: 60.810723
+#########################################
+.
+movieID: 489
+title: Scream
+budget: 1.4E7
+revenue: 1.73046663E8
+director: Wes Craven
+popularity: 45.99611
+#########################################
+.
+movieID: 490
+title: Disclosure
+budget: 5.5E7
+revenue: 2.14015089E8
+director: Barry Levinson
+popularity: 15.064058
+#########################################
+.
+movieID: 491
+title: Spy Kids 3-D: Game Over
+budget: 3.8E7
+revenue: 1.97011982E8
+director: Robert Rodriguez
+popularity: 21.998734
+#########################################
+.
+movieID: 492
+title: Star Trek Beyond
+budget: 1.85E8
+revenue: 3.43471816E8
+director: Justin Lin
+popularity: 65.352913
+#########################################
+.
+movieID: 493
+title: Walk the Line
+budget: 2.8E7
+revenue: 1.86438883E8
+director: James Mangold
+popularity: 35.580032
+#########################################
+.
+movieID: 494
+title: Jack Reacher
+budget: 6.0E7
+revenue: 2.18340595E8
+director: Christopher McQuarrie
+popularity: 56.868399
+#########################################
+.
+movieID: 495
+title: The Bridges of Madison County
+budget: 2.4E7
+revenue: 1.82016617E8
+director: Clint Eastwood
+popularity: 17.606087
+#########################################
+.
+movieID: 496
+title: Paul Blart: Mall Cop
+budget: 2.6E7
+revenue: 1.83293131E8
+director: Steve Carr
+popularity: 31.250383
+#########################################
+.
+movieID: 497
+title: The Descendants
+budget: 2.0E7
+revenue: 1.77243185E8
+director: Alexander Payne
+popularity: 40.903931
+#########################################
+.
+movieID: 498
+title: The Good Dinosaur
+budget: 1.75E8
+revenue: 3.31926147E8
+director: Peter Sohn
+popularity: 51.692953
+#########################################
+.
+movieID: 499
+title: The Other Woman
+budget: 4.0E7
+revenue: 1.96781193E8
+director: Nick Cassavetes
+popularity: 34.519636
+#########################################
+.
+movieID: 500
+title: Tootsie
+budget: 2.1E7
+revenue: 1.772E8
+director: Sydney Pollack
+popularity: 20.818567

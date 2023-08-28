@@ -1,0 +1,83 @@
+Starting DBServer
+-----  Above log entry written at 10:01:18.392994    -------------
+
+ParseEngine: end of reading from databases/moviesreduced.db
+-----  Above log entry written at 10:01:18.412615    -------------
+
+ParseEngine: end of reading from databases/moviesreduced/movies.table
+-----  Above log entry written at 10:01:18.418134    -------------
+
+ParseEngine: end of reading from databases/moviesreduced/genres.table
+-----  Above log entry written at 10:01:18.422251    -------------
+
+ParseEngine: end of reading from databases/moviesreduced/actors.table
+-----  Above log entry written at 10:01:18.427790    -------------
+
+DB: end of loading tables
+-----  Above log entry written at 10:01:18.427960    -------------
+
+Table: movies
+  revenue: real
+  director: string
+  popularity: real
+  movieID: integer
+  title: string
+  budget: real
+
+-----  Above log entry written at 10:01:18.428481    -------------
+
+Table: actors
+  actor: string
+  movieID: integer
+
+-----  Above log entry written at 10:01:18.428576    -------------
+
+Table: genres
+  genre: string
+  movieID: integer
+
+-----  Above log entry written at 10:01:18.428659    -------------
+
+ParseEngine: end of reading from databases/movies.db
+-----  Above log entry written at 10:01:18.429091    -------------
+
+ParseEngine: end of reading from databases/movies/movies.table
+-----  Above log entry written at 10:01:18.433929    -------------
+
+ParseEngine: end of reading from databases/movies/genres.table
+-----  Above log entry written at 10:01:18.438935    -------------
+
+ParseEngine: end of reading from databases/movies/actors.table
+-----  Above log entry written at 10:01:18.492213    -------------
+
+DB: end of loading tables
+-----  Above log entry written at 10:01:18.492422    -------------
+
+Table: movies
+  revenue: real
+  director: string
+  popularity: real
+  movieID: integer
+  title: string
+  budget: real
+
+-----  Above log entry written at 10:01:18.492525    -------------
+
+Table: actors
+  actor: string
+  movieID: integer
+
+-----  Above log entry written at 10:01:18.492593    -------------
+
+Table: genres
+  genre: string
+  movieID: integer
+
+-----  Above log entry written at 10:01:18.492664    -------------
+
+DBServer:loadDatabases: complete
+-----  Above log entry written at 10:01:18.492739    -------------
+
+DBServer.doJoin(): db1=movies table1=actors db2=movies table2=movies
+-----  Above log entry written at 10:05:43.102205    -------------
+

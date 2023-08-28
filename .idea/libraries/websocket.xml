@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="websocket">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/websocket/websocket-core-server-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/websocket/websocket-jetty-server-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/websocket/websocket-javax-server-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/websocket/websocket-servlet-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/websocket/websocket-jetty-api-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/websocket/websocket-jetty-common-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/websocket/websocket-core-common-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/websocket/websocket-javax-common-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/websocket/websocket-jetty-client-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/websocket/websocket-core-client-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/websocket/jetty-javax-websocket-api-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/websocket/websocket-javax-client-10.0.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

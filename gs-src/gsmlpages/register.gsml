@@ -1,0 +1,26 @@
+<doc background=DDDDDD foreground=000060>
+<title size=20> Welcome to the Society of Server Programmmers (SSP)
+<hline>
+<text size=20>
+The SSP has no real purpose other than claiming the acronym SSP.
+Please register below and receive no benefits.
+</text>
+
+<text size=20>
+Enter your username:
+</text>
+<inputfield width=100 name=username>
+
+<text size=20>
+Enter your password:
+</text>
+<inputfield width=100 name=password>
+
+<button name=register>
+
+<text size=10>
+Fine print: you can't trust anyone, especially SSP, with your
+username and password.
+</text>
+
+<server url=gstp://localhost:40013 app=RegisterApp>

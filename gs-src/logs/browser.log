@@ -1,0 +1,1227 @@
+GSBrowser: initialized and build complete
+-----  Above log entry written at 15:22:48.135576    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:23:05.387253    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:23:05.388541    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:23:05.388740    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:23:05.389129    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:23:27.410377    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:23:27.410585    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:23:27.410712    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:23:27.410772    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:24:03.570469    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:24:03.570623    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:24:03.570729    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:24:03.570783    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:25:19.154144    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:25:19.154336    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:25:19.154442    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:25:19.154502    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:25:19.154866    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:25:19.162295    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:25:19.162558    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.]
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.] word=Word=to(Link=cscourses.gsml)
+-----  Above log entry written at 15:25:30.298501    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:25:30.298732    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:25:30.298899    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:25:30.299003    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:25:30.299051    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:25:30.299251    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:25:30.299342    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:25:30.299531    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.]
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.] word=Word=homepage(Link=cscourses.gsml)
+-----  Above log entry written at 15:25:32.801918    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:25:32.802137    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:25:32.802265    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:25:32.802340    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:25:32.802392    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:25:32.802590    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:25:32.802675    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:25:32.802875    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.]
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.] word=Word=homepage(Link=cscourses.gsml)
+-----  Above log entry written at 15:25:33.281801    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:25:33.282046    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:25:33.282158    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:25:33.282232    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:25:33.282274    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:25:33.282461    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:25:33.282532    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:25:33.282699    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.]
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:25:39.435291    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:25:39.435433    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:25:39.435511    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:25:39.435559    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:25:39.435741    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:25:39.435810    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:25:39.435966    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.]
+GSBrowser():readFile(): successful read of location file=homepage.gsml
+-----  Above log entry written at 15:25:56.250121    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:25:56.250251    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:25:56.250335    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:25:56.250407    -------------
+
+GSDoc:processTag(): image tag: width=75 height=100 url=pic.jpg
+-----  Above log entry written at 15:25:56.253557    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:25:56.253728    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [Bio]
+Element: type=image w=75 h=100 filename=null
+Element: type=text Text(size=20) [I a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.]
+Element: type=none
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:25:56.259887    -------------
+
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:25:56.266977    -------------
+
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:25:56.268006    -------------
+
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:25:56.269682    -------------
+
+GSBrowser():readFile(): successful read of location file=homepage.gsml
+-----  Above log entry written at 15:26:12.657577    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:26:12.657717    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:26:12.657794    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:26:12.657853    -------------
+
+GSDoc:processTag(): image tag: width=75 height=100 url=pic.jpg
+-----  Above log entry written at 15:26:12.657970    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:26:12.658080    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:26:12.658234    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:26:12.658381    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [Bio]
+Element: type=image w=75 h=100 filename=null
+Element: type=text Text(size=20) [I a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.]
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:26:12.660237    -------------
+
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.] word=Word=link(Link=cscourses.gsml)
+-----  Above log entry written at 15:26:16.521751    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:26:16.522001    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:26:16.522118    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:26:16.522186    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:26:16.522233    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:26:16.522397    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:26:16.522466    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:26:16.522609    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.]
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.] word=Word=link(Link=cscourses.gsml)
+-----  Above log entry written at 15:26:19.369974    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:26:19.370204    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:26:19.370288    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:26:19.370348    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:26:19.370380    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:26:19.370526    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:26:19.370585    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:26:19.370733    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.]
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.] word=Word=homepage(Link=cscourses.gsml)
+-----  Above log entry written at 15:26:22.113855    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:26:22.114130    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:26:22.114222    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:26:22.114292    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:26:22.114325    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:26:22.114551    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:26:22.114611    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:26:22.114731    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.]
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.] word=Word=back(Link=cscourses.gsml)
+-----  Above log entry written at 15:26:27.729937    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:26:27.730191    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:26:27.730287    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:26:27.730345    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:26:27.730375    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:26:27.730510    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:26:27.730565    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:26:27.730675    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.]
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.] word=Word=homepage(Link=cscourses.gsml)
+-----  Above log entry written at 15:26:38.633832    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:26:38.634166    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:26:38.634281    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:26:38.634343    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:26:38.634374    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:26:38.634514    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:26:38.634573    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:26:38.634697    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.]
+GSBrowser():readFile(): successful read of location file=homepage.gsml
+-----  Above log entry written at 15:26:56.857950    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:26:56.858064    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:26:56.858125    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:26:56.858159    -------------
+
+GSDoc:processTag(): image tag: width=75 height=100 url=pic.jpg
+-----  Above log entry written at 15:26:56.858244    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:26:56.858328    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:26:56.858382    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:26:56.858498    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [Bio]
+Element: type=image w=75 h=100 filename=null
+Element: type=text Text(size=20) [I a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.]
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:26:56.860105    -------------
+
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.] word=Word=CS(Link=cscourses.gsml)
+-----  Above log entry written at 15:26:58.745828    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:26:58.746037    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:26:58.746118    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:26:58.746186    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:26:58.746232    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:26:58.746381    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:26:58.746453    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:26:58.746564    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.]
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.] word=Word=to(Link=cscourses.gsml)
+-----  Above log entry written at 15:27:00.689450    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:27:00.689721    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:27:00.689804    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:27:00.689861    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:27:00.689899    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:27:00.690064    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:27:00.690115    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link back to homepage url=cscourses.gsml
+-----  Above log entry written at 15:27:00.690224    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.]
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link back to homepage</link>.] word=Word=homepage(Link=cscourses.gsml)
+-----  Above log entry written at 15:27:53.225699    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:27:53.225925    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:27:53.226019    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:27:53.226077    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:27:53.226108    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:27:53.226255    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=homepage.gsml linkText=link back to homepage url=homepage.gsml
+-----  Above log entry written at 15:27:53.226310    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=homepage.gsml linkText=link back to homepage url=homepage.gsml
+-----  Above log entry written at 15:27:53.226431    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=homepage.gsml>link back to homepage</link>.]
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=homepage.gsml>link back to homepage</link>.] word=Word=link(Link=homepage.gsml)
+-----  Above log entry written at 15:27:57.313830    -------------
+
+GSBrowser():readFile(): successful read of location file=homepage.gsml
+-----  Above log entry written at 15:27:57.314065    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:27:57.314166    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:27:57.314225    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:27:57.314256    -------------
+
+GSDoc:processTag(): image tag: width=75 height=100 url=pic.jpg
+-----  Above log entry written at 15:27:57.314336    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:27:57.314411    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:27:57.314485    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:27:57.314590    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [Bio]
+Element: type=image w=75 h=100 filename=null
+Element: type=text Text(size=20) [I a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.]
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:27:57.315763    -------------
+
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:28:01.553854    -------------
+
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.] word=Word=CS(Link=cscourses.gsml)
+-----  Above log entry written at 15:28:02.113439    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:28:02.113734    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:28:02.113821    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:28:02.113918    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:28:02.113962    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:28:02.114108    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=homepage.gsml linkText=link back to homepage url=homepage.gsml
+-----  Above log entry written at 15:28:02.114159    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=homepage.gsml linkText=link back to homepage url=homepage.gsml
+-----  Above log entry written at 15:28:02.114260    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=homepage.gsml>link back to homepage</link>.]
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=homepage.gsml>link back to homepage</link>.] word=Word=back(Link=homepage.gsml)
+-----  Above log entry written at 15:28:03.169782    -------------
+
+GSBrowser():readFile(): successful read of location file=homepage.gsml
+-----  Above log entry written at 15:28:03.170080    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:28:03.170166    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:28:03.170236    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:28:03.170265    -------------
+
+GSDoc:processTag(): image tag: width=75 height=100 url=pic.jpg
+-----  Above log entry written at 15:28:03.170356    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:28:03.170430    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:28:03.170478    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:28:03.170577    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [Bio]
+Element: type=image w=75 h=100 filename=null
+Element: type=text Text(size=20) [I a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.]
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:28:03.171656    -------------
+
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.] word=Word=page(Link=cscourses.gsml)
+-----  Above log entry written at 15:28:04.209715    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:28:04.209921    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:28:04.210040    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:28:04.210090    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:28:04.210117    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:28:04.210284    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=homepage.gsml linkText=link back to homepage url=homepage.gsml
+-----  Above log entry written at 15:28:04.210359    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=homepage.gsml linkText=link back to homepage url=homepage.gsml
+-----  Above log entry written at 15:28:04.210445    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=homepage.gsml>link back to homepage</link>.]
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=homepage.gsml>link back to homepage</link>.] word=Word=homepage(Link=homepage.gsml)
+-----  Above log entry written at 15:28:05.129703    -------------
+
+GSBrowser():readFile(): successful read of location file=homepage.gsml
+-----  Above log entry written at 15:28:05.129915    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:28:05.129987    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:28:05.130052    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:28:05.130080    -------------
+
+GSDoc:processTag(): image tag: width=75 height=100 url=pic.jpg
+-----  Above log entry written at 15:28:05.130163    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:28:05.130230    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:28:05.130274    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:28:05.130362    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [Bio]
+Element: type=image w=75 h=100 filename=null
+Element: type=text Text(size=20) [I a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.]
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:28:05.131268    -------------
+
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.] word=Word=page(Link=cscourses.gsml)
+-----  Above log entry written at 15:28:06.281721    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:28:06.281919    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:28:06.282098    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:28:06.282162    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:28:06.282192    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:28:06.282299    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=homepage.gsml linkText=link back to homepage url=homepage.gsml
+-----  Above log entry written at 15:28:06.282356    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=homepage.gsml linkText=link back to homepage url=homepage.gsml
+-----  Above log entry written at 15:28:06.282438    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=homepage.gsml>link back to homepage</link>.]
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=homepage.gsml>link back to homepage</link>.] word=Word=homepage(Link=homepage.gsml)
+-----  Above log entry written at 15:28:07.129606    -------------
+
+GSBrowser():readFile(): successful read of location file=homepage.gsml
+-----  Above log entry written at 15:28:07.129854    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:28:07.129926    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:28:07.129973    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:28:07.129999    -------------
+
+GSDoc:processTag(): image tag: width=75 height=100 url=pic.jpg
+-----  Above log entry written at 15:28:07.130077    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:28:07.130156    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:28:07.130207    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:28:07.130292    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [Bio]
+Element: type=image w=75 h=100 filename=null
+Element: type=text Text(size=20) [I a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.]
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:28:07.131247    -------------
+
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.] word=Word=link(Link=cscourses.gsml)
+-----  Above log entry written at 15:28:08.033492    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:28:08.033688    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:28:08.033759    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:28:08.033833    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:28:08.033860    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:28:08.033957    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=homepage.gsml linkText=link back to homepage url=homepage.gsml
+-----  Above log entry written at 15:28:08.034006    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=homepage.gsml linkText=link back to homepage url=homepage.gsml
+-----  Above log entry written at 15:28:08.034118    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=homepage.gsml>link back to homepage</link>.]
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=homepage.gsml>link back to homepage</link>.] word=Word=homepage(Link=homepage.gsml)
+-----  Above log entry written at 15:28:08.921586    -------------
+
+GSBrowser():readFile(): successful read of location file=homepage.gsml
+-----  Above log entry written at 15:28:08.921783    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:28:08.921855    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:28:08.921900    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:28:08.921925    -------------
+
+GSDoc:processTag(): image tag: width=75 height=100 url=pic.jpg
+-----  Above log entry written at 15:28:08.921987    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:28:08.922053    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:28:08.922112    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:28:08.922216    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [Bio]
+Element: type=image w=75 h=100 filename=null
+Element: type=text Text(size=20) [I a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.]
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:28:08.923273    -------------
+
+GSBrowser():readFile(): successful read of location file=homepage.gsml
+-----  Above log entry written at 15:29:02.169687    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:29:02.169799    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:29:02.169854    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:29:02.169883    -------------
+
+GSDoc:processTag(): image tag: width=75 height=100 url=pic.jpg
+-----  Above log entry written at 15:29:02.169956    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:29:02.169987    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:29:02.170257    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:29:02.170310    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:29:02.170406    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [Bio]
+Element: type=image w=75 h=100 filename=null
+Element: type=none
+Element: type=text Text(size=20) [I am a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.]
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:29:02.171824    -------------
+
+GSBrowser():readFile(): successful read of location file=homepage.gsml
+-----  Above log entry written at 15:29:17.833608    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:29:17.833752    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:29:17.833813    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:29:17.833842    -------------
+
+GSDoc:processTag(): image tag: width=75 height=100 url=pic.jpg
+-----  Above log entry written at 15:29:17.833908    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=20> height=0
+-----  Above log entry written at 15:29:17.833938    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:29:17.833999    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:29:17.834043    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:29:17.834135    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [Bio]
+Element: type=image w=75 h=100 filename=null
+Element: type=none
+Element: type=text Text(size=40) [I am a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.]
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:29:17.835586    -------------
+
+GSBrowser():readFile(): successful read of location file=homepage.gsml
+-----  Above log entry written at 15:29:34.297679    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:29:34.297789    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:29:34.297855    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:29:34.297881    -------------
+
+GSDoc:processTag(): image tag: width=75 height=100 url=pic.jpg
+-----  Above log entry written at 15:29:34.297968    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:29:34.297997    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:29:34.298039    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:29:34.298107    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:29:34.298171    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [Bio]
+Element: type=image w=75 h=100 filename=null
+Element: type=none
+Element: type=text Text(size=20) [I am a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.]
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:29:34.299824    -------------
+
+GSBrowser():readFile(): successful read of location file=homepage.gsml
+-----  Above log entry written at 15:30:07.417750    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:30:07.417895    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:30:07.417941    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:30:07.417965    -------------
+
+GSDoc:processTag(): image tag: width=100 height=200 url=pic.jpg
+-----  Above log entry written at 15:30:07.418023    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:30:07.418048    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:30:07.418093    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:30:07.418132    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:30:07.418189    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [Bio]
+Element: type=image w=100 h=200 filename=null
+Element: type=none
+Element: type=text Text(size=20) [I am a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.]
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:30:07.419779    -------------
+
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:30:24.401080    -------------
+
+GSBrowser():readFile(): successful read of location file=homepage.gsml
+-----  Above log entry written at 15:30:25.873549    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:30:25.873634    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:30:25.873676    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:30:25.873700    -------------
+
+GSDoc:processTag(): image tag: width=150 height=200 url=pic.jpg
+-----  Above log entry written at 15:30:25.873755    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:30:25.873786    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:30:25.873873    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:30:25.873927    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:30:25.873983    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [Bio]
+Element: type=image w=150 h=200 filename=null
+Element: type=none
+Element: type=text Text(size=20) [I am a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.]
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:30:25.875443    -------------
+
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:30:38.801779    -------------
+
+GSBrowser():readFile(): successful read of location file=homepage.gsml
+-----  Above log entry written at 15:30:39.713495    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:30:39.713582    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:30:39.713624    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:30:39.713648    -------------
+
+GSDoc:processTag(): image tag: width=150 height=230 url=pic.jpg
+-----  Above log entry written at 15:30:39.713779    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:30:39.713809    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:30:39.713849    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:30:39.713957    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:30:39.714103    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [Bio]
+Element: type=image w=150 h=230 filename=null
+Element: type=none
+Element: type=text Text(size=20) [I am a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.]
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:30:39.715797    -------------
+
+GSBrowser():readFile(): successful read of location file=homepage.gsml
+-----  Above log entry written at 15:30:46.737578    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:30:46.737673    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:30:46.737716    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:30:46.737740    -------------
+
+GSDoc:processTag(): image tag: width=150 height=210 url=pic.jpg
+-----  Above log entry written at 15:30:46.737841    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:30:46.737884    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:30:46.737923    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:30:46.737953    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:30:46.738017    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [Bio]
+Element: type=image w=150 h=210 filename=null
+Element: type=none
+Element: type=text Text(size=20) [I am a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.]
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:30:46.739468    -------------
+
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.] word=Word=courses(Link=cscourses.gsml)
+-----  Above log entry written at 15:30:49.649210    -------------
+
+GSBrowser():readFile(): successful read of location file=cscourses.gsml
+-----  Above log entry written at 15:30:49.649434    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:30:49.649507    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:30:49.649550    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:30:49.649573    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:30:49.649634    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=homepage.gsml linkText=link back to homepage url=homepage.gsml
+-----  Above log entry written at 15:30:49.649666    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=homepage.gsml linkText=link back to homepage url=homepage.gsml
+-----  Above log entry written at 15:30:49.649707    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [CS 6001]
+Element: type=text Text(size=20) [CS 6002]
+Element: type=text Text(size=20) [CS 6003]
+Element: type=text Text(size=20) [CS 6004 (in progress)]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=homepage.gsml>link back to homepage</link>.]
+Mouseclick: on word: element=Element: type=text Text(size=20) [Here is a <link url=homepage.gsml>link back to homepage</link>.] word=Word=homepage(Link=homepage.gsml)
+-----  Above log entry written at 15:30:51.369495    -------------
+
+GSBrowser():readFile(): successful read of location file=homepage.gsml
+-----  Above log entry written at 15:30:51.369713    -------------
+
+GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
+-----  Above log entry written at 15:30:51.369812    -------------
+
+GSDoc.processTitleTag(): tag attributes={size=20}
+-----  Above log entry written at 15:30:51.369915    -------------
+
+GSDoc:processTag(): hline detected: line=<hline>
+-----  Above log entry written at 15:30:51.369936    -------------
+
+GSDoc:processTag(): image tag: width=150 height=210 url=pic.jpg
+-----  Above log entry written at 15:30:51.369996    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:30:51.370021    -------------
+
+GSDoc:processTag(): vspace detected: line=<vspace height=40> height=0
+-----  Above log entry written at 15:30:51.370074    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:30:51.370110    -------------
+
+GSDoc:extractWords(): beforetag= Here is a  aftertag=. linkTag=link url=cscourses.gsml linkText=link to a page with CS courses I have taken so far url=cscourses.gsml
+-----  Above log entry written at 15:30:51.370163    -------------
+
+GSDoc.parse(): Scan complete: elements:
+Element: type=hline
+Element: type=text Text(size=20) [Bio]
+Element: type=image w=150 h=210 filename=null
+Element: type=none
+Element: type=text Text(size=20) [I am a faculty member at GW, teaching English for Academic Purposes, but I am also a GW student, getting a Master's degree in Applied Computer Science.]
+Element: type=none
+Element: type=text Text(size=20) [Here is a <link url=cscourses.gsml>link to a page with CS courses I have taken so far</link>.]
+GSBrowser.getImage(): Local image: file=pic.jpg
+-----  Above log entry written at 15:30:51.371374    -------------
+

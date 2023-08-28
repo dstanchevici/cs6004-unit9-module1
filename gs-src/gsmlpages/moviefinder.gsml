@@ -1,0 +1,24 @@
+<doc background=BBBBBB foreground=0000B0>
+<title size=20> MovieFind: find movies your favorite actor is in
+<hline>
+<text size=20>
+This site supports two types of searches: (1) Enter an actor name
+and get a list of movieIDs; (2) Enter a movieID and get the movie's info.
+</text>
+
+<text size=15>
+Actor first name and last name (first letter of each capitalized):
+</text>
+<inputfield width=200 name=actorname>
+<button name=FindMovieID>
+
+<text size=15>
+Movie ID (an integer):
+</text>
+<inputfield width=50 name=movieid>
+<button name=FindMovie>
+
+
+<server url=gstp://localhost:40013 app=MovieFindApp>
+
+

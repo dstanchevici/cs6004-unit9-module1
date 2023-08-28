@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="http2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/http2/http2-server-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/http2/http2-hpack-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/http2/http2-common-10.0.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

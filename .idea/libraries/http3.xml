@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="http3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/http3/http3-common-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/http3/quic-common-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/http3/quic-quiche-common-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/http3/quic-quiche-jna-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/http3/http3-qpack-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/http3/http3-server-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/http3/quic-server-10.0.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

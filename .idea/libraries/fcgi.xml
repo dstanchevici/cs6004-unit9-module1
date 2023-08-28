@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="fcgi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/fcgi/fcgi-server-10.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/fcgi/fcgi-client-10.0.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

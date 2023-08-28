@@ -1,0 +1,21 @@
+#########################################
+.
+table: movies
+movieID: integer
+title: string
+director: string
+budget: real
+revenue: real
+popularity: real
+
+#########################################
+.
+table: genres
+movieID: integer
+genre: string
+
+#########################################
+.
+table: actors
+movieID: integer
+actor: string

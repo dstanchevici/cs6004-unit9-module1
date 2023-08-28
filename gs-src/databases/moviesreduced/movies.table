@@ -1,0 +1,80 @@
+#########################################
+.
+movieID: 1
+title: Avatar
+budget: 2.37E8
+revenue: 2.787965087E9
+director: James Cameron
+popularity: 150.437577
+#########################################
+.
+movieID: 2
+title: Titanic
+budget: 2.0E8
+revenue: 1.845034188E9
+director: James Cameron
+popularity: 100.025899
+#########################################
+.
+movieID: 3
+title: Jurassic World
+budget: 1.5E8
+revenue: 1.51352881E9
+director: Colin Trevorrow
+popularity: 418.708552
+#########################################
+.
+movieID: 4
+title: Furious 7
+budget: 1.9E8
+revenue: 1.50624936E9
+director: James Wan
+popularity: 102.322217
+#########################################
+.
+movieID: 5
+title: The Avengers
+budget: 2.2E8
+revenue: 1.51955791E9
+director: Joss Whedon
+popularity: 144.448633
+#########################################
+.
+movieID: 6
+title: Avengers: Age of Ultron
+budget: 2.8E8
+revenue: 1.405403694E9
+director: Joss Whedon
+popularity: 134.279229
+#########################################
+.
+movieID: 7
+title: Frozen
+budget: 1.5E8
+revenue: 1.274219009E9
+director: Jennifer Lee
+popularity: 165.125366
+#########################################
+.
+movieID: 8
+title: Minions
+budget: 7.4E7
+revenue: 1.156730962E9
+director: Pierre Coffin
+popularity: 875.581305
+#########################################
+.
+movieID: 9
+title: The Lord of the Rings: The Return of the King
+budget: 9.4E7
+revenue: 1.118888979E9
+director: Peter Jackson
+popularity: 123.630332
+#########################################
+.
+movieID: 10
+title: Iron Man 3
+budget: 2.0E8
+revenue: 1.215439994E9
+director: Shane Black
+popularity: 77.68208

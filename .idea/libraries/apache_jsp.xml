@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="apache-jsp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/apache-jsp/org.eclipse.jdt.ecj-3.26.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/apache-jsp/org.mortbay.jasper.apache-jsp-9.0.52.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/apache-jsp/org.mortbay.jasper.apache-el-9.0.52.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/apache-jsp/org.eclipse.jetty.apache-jsp-10.0.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

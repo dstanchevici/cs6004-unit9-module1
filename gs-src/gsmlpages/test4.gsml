@@ -1,0 +1,28 @@
+<doc background=FFFFFF foreground=000000>
+<title size=20> This is test4.gsml
+<hline>
+<text size=20>
+The server delivered this file.
+</text>
+
+<vspace height=10>
+
+<text size=20>
+Below is a textfield, into which you can type something. Click on 
+the field until it's blue before typing.
+</text>
+
+<inputfield width=100 name=box>
+
+<vspace height=10>
+
+<text size=20>
+This is a button that calls the ExampleApp app on the server.
+</text>
+<button name=submit>
+
+<vspace height=10>
+<text size=20>
+This is <link url=gstp://test3.gsml>a link back to test3.gsml</link>.
+</text>
+<server url=gstp://localhost:40013 app=ExampleApp>

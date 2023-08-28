@@ -1,0 +1,21 @@
+To the student: 
+The are all kinds of software licenses and for each type
+of license, there are variations of wording. Some are short and sweet,
+others are written by legal teams and go on for pages. See
+     https://en.wikipedia.org/wiki/Software_license 
+for a description. For an example of a well thought out,
+long-ish license, see the Apache license:
+   https://www.apache.org/licenses/LICENSE-2.0
+
+
+************************** LICENSE ******************************
+
+To the extent possible under law, the author has dedicated all
+copyright and related and neighboring rights to this software to the
+public domain worldwide. Anyone can freely use, modify, and distribute
+this software. We only request that, if you distribute this or a 
+modified version, cite the webpage from which you acquired this.
+This software is distributed "as is" without any warranty.
+See http://creativecommons.org/publicdomain/zero/1.0/
+
+************************** END-LICENSE ****************************

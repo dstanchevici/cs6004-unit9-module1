@@ -1,0 +1,14 @@
+# Add each new database here, without the ".db" part, assuming
+# it's stored as the file something.db, as in movie.db
+database0=moviesreduced
+database1=movies
+
+# The total number:
+numDatabases=2
+
+# Replace the below number with your assigned port number 
+# (something other than the default 40014)
+portNum=40014
+
+
+

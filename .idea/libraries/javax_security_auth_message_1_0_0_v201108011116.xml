@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.security.auth.message-1.0.0.v201108011116">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jetty-home-10.0.15/lib/jaspi/javax.security.auth.message-1.0.0.v201108011116.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

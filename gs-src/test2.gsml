@@ -1,0 +1,33 @@
+<doc background=DDDDDD foreground=000060>
+<title size=20> This is test2.gsml
+
+<hline>
+
+<text size=20>
+This is <link url=test.gsml>a link to</link> back to the previous file.
+</text>
+
+<vspace height=20>
+
+<text size=15>
+The inputfield, button, and link below will work only if the
+server is also running.
+</text>
+
+<vspace height=5>
+
+<text size=15>
+Enter something and click submit:
+</text>
+<inputfield width=100 name=box>
+<button name=submit>
+
+<vspace height=5>
+
+<text size=15>
+This is <link url=gstp://localhost:40013/test3.gsml>a link to test3.gsml, a (remote) server file</link>,
+and the image below is also from the same server. If you don't see
+the image, the server is not running.
+</text>
+<image width=50 height=40 url=gstp://localhost:40013/elmer.jpg>
+

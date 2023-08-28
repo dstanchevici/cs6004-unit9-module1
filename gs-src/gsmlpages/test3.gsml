@@ -1,0 +1,25 @@
+<doc background=FFFFFF foreground=000000>
+<title size=20> This is test3.gsml in /gsmlpages
+<hline>
+<text size=20>
+The server delivered this file.
+</text>
+
+<vspace height=10>
+
+
+<text size=15>
+This is <link url=test4.gsml>a link to test4.gsml</link>,
+and the server delivered the image below.
+</text>
+
+<vspace height=10>
+
+<text size=15>
+And this is <link url=register.gsml>a link to register.gsml</link>.
+</text>
+
+<vspace height=10>
+
+<image width=50 height=70 url=daffy.png>
+
