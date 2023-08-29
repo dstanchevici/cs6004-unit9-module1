@@ -56,10 +56,10 @@ public class GSBrowser extends JPanel implements MouseListener, KeyListener {
 
     public GSBrowser ()
     {
-	this.addMouseListener (this);
-	this.addKeyListener (this);
-	build ();
-	Log.println ("GSBrowser: initialized and build complete");
+		this.addMouseListener (this);
+		this.addKeyListener (this);
+		build ();
+		Log.println ("GSBrowser: initialized and build complete");
     }
 
 
@@ -69,166 +69,169 @@ public class GSBrowser extends JPanel implements MouseListener, KeyListener {
 
     public void paintComponent (Graphics g)
     {
-	super.paintComponent (g);
-	
-	// Default: white background.
-	Dimension D = this.getSize ();
-	int drawWidth = D.width;
-	int drawHeight = D.height;
-	g.setColor (Color.WHITE);
-	g.fillRect (0,0, D.width, D.height);
+		super.paintComponent (g);
 
-	if (doc == null) {
-	    return;
-	}
+		// Default: white background.
+		Dimension D = this.getSize ();
+		int drawWidth = D.width;
+		int drawHeight = D.height;
+		g.setColor (Color.WHITE);
+		g.fillRect (0,0, D.width, D.height);
 
-	// Otherwise, use the document's colors.
-	g.setColor (doc.backgroundColor);
-	g.fillRect (0,0, D.width, D.height);
-
-	g.setColor (doc.foregroundColor);
-
-	// Render the document now. We'll use currentY to track the
-	// rendering along the y axis. This keeps increasing as we proceed,
-	// depending on what's rendered.
-	int currentY = 0;
-
-	// The title tag.
-	Font font = new Font ("Serif", Font.BOLD, doc.titleFontSize);
-	g.setFont (font);
-	FontMetrics fm = g.getFontMetrics();
-	int h = fm.getHeight ();
-	// h is how much we need to descend each time text is written.
-	// This is half the job in layout: calculating where to draw next.
-	currentY += h;
-	g.drawString (doc.titleString, 10, currentY);
-
-	// Now go serially through the document elements.
-
-	for (GSDocElement element: doc.elements) {
-
-	    // Default for buttons etc
-	    font = new Font ("Serif", Font.PLAIN, doc.defaultFontSize);
-	    g.setFont (font);
-	    fm = g.getFontMetrics();
-	    h = fm.getHeight ();
-	    
-	    if (element.type == hline) {               // Horizontal line.
-		g.drawLine (0,currentY+h, D.width,currentY+h);
-		currentY += 2*h;
-	    }
-	    else if (element.type == inputfield) {     // A box for input.
-		drawInputField (g, currentY+h, h, element);
-		currentY += 4*h;
-		g.setColor (doc.foregroundColor);
-	    }
-	    else if (element.type == button) {         // A box as button.
-		currentY += h;
-		drawButton (g, currentY, h, element);
-		currentY += 2*h;
-	    }
-	    else if (element.type == image) {          // Get image, draw it.
-		currentY += h;
-		Image img = getImage (element.urlString);
-		g.drawImage (img, 10, currentY, element.width, element.height, this);
-		currentY += element.height;
-	    }
-	    else if (element.type == text) {           // Text is complicated.
-		currentY = drawText (g, currentY, element);
-		if (currentY > D.height) {
-		    // If the text went past the bottom, make the scrollbar appear.
-		    this.setPreferredSize (new Dimension (D.width,currentY));
-		    scrollPane.revalidate();
+		if (doc == null) {
+			return;
 		}
-	    } 
-	    else {
-		// Other elements like "<server>" have no rendering.
-	    }
 
-	} // end-for-elements
+		// Otherwise, use the document's colors.
+		g.setColor (doc.backgroundColor);
+		g.fillRect (0,0, D.width, D.height);
+
+		g.setColor (doc.foregroundColor);
+
+		// Render the document now. We'll use currentY to track the
+		// rendering along the y axis. This keeps increasing as we proceed,
+		// depending on what's rendered.
+		int currentY = 0;
+
+		// The title tag.
+		Font font = new Font ("Serif", Font.BOLD, doc.titleFontSize);
+		g.setFont (font);
+		FontMetrics fm = g.getFontMetrics();
+		int h = fm.getHeight ();
+		// h is how much we need to descend each time text is written.
+		// This is half the job in layout: calculating where to draw next.
+		currentY += h;
+		g.drawString (doc.titleString, 10, currentY);
+
+		// Now go serially through the document elements.
+
+		for (GSDocElement element: doc.elements) {
+
+			// Default for buttons etc
+			font = new Font ("Serif", Font.PLAIN, doc.defaultFontSize);
+			g.setFont (font);
+			fm = g.getFontMetrics();
+			h = fm.getHeight ();
+
+			if (element.type == hline) {               // Horizontal line.
+				g.drawLine (0,currentY+h, D.width,currentY+h);
+				currentY += 2*h;
+			}
+			else if (element.type == inputfield) {     // A box for input.
+				drawInputField (g, currentY+h, h, element);
+				currentY += 4*h;
+				g.setColor (doc.foregroundColor);
+			}
+			else if (element.type == button) {         // A box as button.
+				currentY += h;
+				drawButton (g, currentY, h, element);
+				currentY += 2*h;
+			}
+			else if (element.type == image) {          // Get image, draw it.
+				currentY += h;
+				Image img = getImage (element.urlString);
+				g.drawImage (img, 10, currentY, element.width, element.height, this);
+				currentY += element.height;
+			}
+			else if (element.type == vspace) {
+				currentY += element.height;
+			}
+			else if (element.type == text) {           // Text is complicated.
+				currentY = drawText (g, currentY, element);
+				if (currentY > D.height) {
+					// If the text went past the bottom, make the scrollbar appear.
+					this.setPreferredSize (new Dimension (D.width,currentY));
+					scrollPane.revalidate();
+				}
+			}
+			else {
+				// Other elements like "<server>" have no rendering.
+			}
+
+		} // end-for-elements
 
     }
 
 
     void drawInputField (Graphics g, int currentY, int height, GSDocElement element)
     {
-	if (element == selectedInputField) {  // If the user has selected it.
-	    g.setColor (Color.BLUE);
-	}
-	else {
-	    g.setColor (doc.foregroundColor);
-	}
-	g.drawRect (10, currentY, element.width, 2*height);
-	g.drawString (element.inputText, 20, currentY+height);
-	// MyRecord coordinates to activate textbox. The dimensions are
-	// extracted when parsing occured in GSDOc.
-	element.topLeftX = 10;  element.topLeftY = currentY;
-	element.boxWidth = element.width;  element.boxHeight = 2*height;
+		if (element == selectedInputField) {  // If the user has selected it.
+			g.setColor (Color.BLUE);
+		}
+		else {
+			g.setColor (doc.foregroundColor);
+		}
+		g.drawRect (10, currentY, element.width, 2*height);
+		g.drawString (element.inputText, 20, currentY+height);
+		// MyRecord coordinates to activate textbox. The dimensions are
+		// extracted when parsing occured in GSDOc.
+		element.topLeftX = 10;  element.topLeftY = currentY;
+		element.boxWidth = element.width;  element.boxHeight = 2*height;
     }
 
     void drawButton (Graphics g, int currentY, int height, GSDocElement element)
     {
-	// A button is just a rectangle.
-	FontMetrics fm = g.getFontMetrics();
-	int w = fm.stringWidth (element.name);
-	g.drawString (element.name, 20, currentY+height);
-	g.drawRect (10, currentY, w+20, 2*height);
-	element.topLeftX = 10;  element.topLeftY = currentY;
-	element.boxWidth = w+20;  element.boxHeight = 2*height;
+		// A button is just a rectangle.
+		FontMetrics fm = g.getFontMetrics();
+		int w = fm.stringWidth (element.name);
+		g.drawString (element.name, 20, currentY+height);
+		g.drawRect (10, currentY, w+20, 2*height);
+		element.topLeftX = 10;  element.topLeftY = currentY;
+		element.boxWidth = w+20;  element.boxHeight = 2*height;
     }
 
     int drawText (Graphics g, int currentY, GSDocElement element) 
     {
-	// We get the dimension of the panel so that we know when
-	// we've gone past (if the text is long). Then, we'll re-size the
-	// scrollpane.
-	Dimension D = this.getSize();
+		// We get the dimension of the panel so that we know when
+		// we've gone past (if the text is long). Then, we'll re-size the
+		// scrollpane.
+		Dimension D = this.getSize();
 
-	// Set the font and get its height.
-	Font textFont = new Font ("Serif", Font.PLAIN, element.fontSize);
-	g.setFont (textFont);
-	FontMetrics textfm = g.getFontMetrics();
-	int fontHeight = textfm.getHeight ();
+		// Set the font and get its height.
+		Font textFont = new Font ("Serif", Font.PLAIN, element.fontSize);
+		g.setFont (textFont);
+		FontMetrics textfm = g.getFontMetrics();
+		int fontHeight = textfm.getHeight ();
 
-	currentY += fontHeight;
-	int wordStart = 10;       // Inset from left edge.
-
-	for (GSWord gword: element.words) {
-
-	    // See if we need to go to the next line.
-	    String spacing = " ";
-	    if (wordStart <= 10) {
-		spacing = "";        // No spacing if word starts a new line.
-	    }
-	    String fullWord = spacing + gword.word;
-
-	    // If the word does not fit at the right, go to next line.
-	    int len = textfm.stringWidth (fullWord);
-	    if (wordStart+len > D.width) {
-		wordStart = 10;
 		currentY += fontHeight;
-		spacing = "";
-		fullWord = spacing + gword.word;
-	    }
+		int wordStart = 10;       // Inset from left edge.
 
-	    // Render the word.
-	    g.drawString (fullWord, wordStart, currentY);
+		for (GSWord gword: element.words) {
 
-	    // Now draw link underline if needed
-	    if (gword.linkURL != null) {
-		g.drawLine (wordStart, currentY+fontHeight/2, wordStart+len, currentY+fontHeight/2);
-		// Store coordinates for possible click.
-		gword.topLeftX = wordStart;
-		gword.topLeftY = currentY-fontHeight;
-		gword.boxWidth = len;
-		gword.boxHeight = fontHeight;
-	    }
-	    wordStart += len;
+			// See if we need to go to the next line.
+			String spacing = " ";
+			if (wordStart <= 10) {
+				spacing = "";        // No spacing if word starts a new line.
+			}
+			String fullWord = spacing + gword.word;
 
-	} //for-words
+			// If the word does not fit at the right, go to next line.
+			int len = textfm.stringWidth (fullWord);
+			if (wordStart+len > D.width) {
+				wordStart = 10;
+				currentY += fontHeight;
+				spacing = "";
+				fullWord = spacing + gword.word;
+			}
 
-	currentY += fontHeight;
-	return currentY;
+			// Render the word.
+			g.drawString (fullWord, wordStart, currentY);
+
+			// Now draw link underline if needed
+			if (gword.linkURL != null) {
+				g.drawLine (wordStart, currentY+fontHeight/2, wordStart+len, currentY+fontHeight/2);
+				// Store coordinates for possible click.
+				gword.topLeftX = wordStart;
+				gword.topLeftY = currentY-fontHeight;
+				gword.boxWidth = len;
+				gword.boxHeight = fontHeight;
+			}
+			wordStart += len;
+
+		} //for-words
+
+		currentY += fontHeight;
+		return currentY;
     }
 
 

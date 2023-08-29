@@ -1,6 +1,96 @@
 Starting GSServer
------  Above log entry written at 14:36:27.870881    -------------
+-----  Above log entry written at 16:33:38.186151    -------------
 
 GSServer:loadApps: complete
------  Above log entry written at 14:36:27.876920    -------------
+-----  Above log entry written at 16:33:38.193719    -------------
+
+GSServer.run():  ID=1 GIMAGE: received request for file=elmer.jpg
+-----  Above log entry written at 16:34:50.589817    -------------
+
+GSServer.run():  ID=2 GIMAGE: received request for file=elmer.jpg
+-----  Above log entry written at 16:34:51.063309    -------------
+
+GSServer.run():  ID=3 GIMAGE: received request for file=elmer.jpg
+-----  Above log entry written at 16:34:51.480855    -------------
+
+GSServer.run(): ID=4 GGET: received request for file=test3.gsml
+-----  Above log entry written at 16:34:58.010987    -------------
+
+GSServer.deliverFile(): ID=4 request for filename=[test3.gsml] sep=[/] path=[gsmlpages/test3.gsml]
+-----  Above log entry written at 16:34:58.013985    -------------
+
+GSServer.run():  ID=5 GIMAGE: received request for file=daffy.png
+-----  Above log entry written at 16:34:58.019164    -------------
+
+GSServer.run():  ID=6 GIMAGE: received request for file=daffy.png
+-----  Above log entry written at 16:34:58.147848    -------------
+
+GSServer.run():  ID=7 GIMAGE: received request for file=daffy.png
+-----  Above log entry written at 16:34:58.274285    -------------
+
+GSServer.run(): ID=8 GGET: received request for file=test3.gsml
+-----  Above log entry written at 16:35:50.484095    -------------
+
+GSServer.deliverFile(): ID=8 request for filename=[test3.gsml] sep=[/] path=[gsmlpages/test3.gsml]
+-----  Above log entry written at 16:35:50.484232    -------------
+
+GSServer.run():  ID=9 GIMAGE: received request for file=daffy.png
+-----  Above log entry written at 16:35:50.514236    -------------
+
+GSServer.run():  ID=10 GIMAGE: received request for file=daffy.png
+-----  Above log entry written at 16:35:50.660756    -------------
+
+GSServer.run():  ID=11 GIMAGE: received request for file=daffy.png
+-----  Above log entry written at 16:35:50.802202    -------------
+
+GSServer.run():  ID=12 GIMAGE: received request for file=daffy.png
+-----  Above log entry written at 16:36:01.946952    -------------
+
+GSServer.run(): ID=13 GGET: received request for file=test3.gsml
+-----  Above log entry written at 16:36:03.113974    -------------
+
+GSServer.deliverFile(): ID=13 request for filename=[test3.gsml] sep=[/] path=[gsmlpages/test3.gsml]
+-----  Above log entry written at 16:36:03.114083    -------------
+
+GSServer.run():  ID=14 GIMAGE: received request for file=daffy.png
+-----  Above log entry written at 16:36:03.119054    -------------
+
+GSServer.run(): ID=15 GGET: received request for file=test3.gsml
+-----  Above log entry written at 16:36:38.860455    -------------
+
+GSServer.deliverFile(): ID=15 request for filename=[test3.gsml] sep=[/] path=[gsmlpages/test3.gsml]
+-----  Above log entry written at 16:36:38.860599    -------------
+
+GSServer.run():  ID=16 GIMAGE: received request for file=daffy.png
+-----  Above log entry written at 16:36:38.889737    -------------
+
+GSServer.run():  ID=17 GIMAGE: received request for file=daffy.png
+-----  Above log entry written at 16:36:39.039510    -------------
+
+GSServer.run():  ID=18 GIMAGE: received request for file=daffy.png
+-----  Above log entry written at 16:36:39.177997    -------------
+
+GSServer.run(): ID=19 GGET: received request for file=test3.gsml
+-----  Above log entry written at 16:36:58.059718    -------------
+
+GSServer.deliverFile(): ID=19 request for filename=[test3.gsml] sep=[/] path=[gsmlpages/test3.gsml]
+-----  Above log entry written at 16:36:58.059827    -------------
+
+GSServer.run():  ID=20 GIMAGE: received request for file=daffy.png
+-----  Above log entry written at 16:36:58.090722    -------------
+
+GSServer.run():  ID=21 GIMAGE: received request for file=daffy.png
+-----  Above log entry written at 16:36:58.241041    -------------
+
+GSServer.run():  ID=22 GIMAGE: received request for file=daffy.png
+-----  Above log entry written at 16:36:58.380724    -------------
+
+GSServer.run(): ID=23 GGET: received request for file=test3.gsml
+-----  Above log entry written at 16:37:11.225446    -------------
+
+GSServer.deliverFile(): ID=23 request for filename=[test3.gsml] sep=[/] path=[gsmlpages/test3.gsml]
+-----  Above log entry written at 16:37:11.225600    -------------
+
+GSServer.run():  ID=24 GIMAGE: received request for file=daffy.png
+-----  Above log entry written at 16:37:11.230340    -------------
 

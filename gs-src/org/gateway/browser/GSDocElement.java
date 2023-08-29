@@ -25,17 +25,18 @@ public class GSDocElement {
 
     public String toString ()
     {
-	String s = "Element: type=" + type;
-	if (type == inputfield) s+= " w=" + width + " name=" + name;
-	else if (type == button) s+= " name=" + name;
-	else if (type == image) s+= " w=" + width + " h=" + height + " filename=" + fileName;
-	else if (type == text) {
-	    s += " Text(size=" + fontSize + ") [";
-	    for (String str: textLines) {
-		s += str;
-	    }
-	    s += "]";
-	}
-	return s;
+        String s = "Element: type=" + type;
+        if (type == inputfield) s+= " w=" + width + " name=" + name;
+        else if (type == button) s+= " name=" + name;
+        else if (type == image) s+= " w=" + width + " h=" + height + " filename=" + fileName;
+        else if (type == vspace) s+= " h=" + height;
+        else if (type == text) {
+            s += " Text(size=" + fontSize + ") [";
+            for (String str: textLines) {
+                s += str;
+            }
+            s += "]";
+        }
+        return s;
     }
 }

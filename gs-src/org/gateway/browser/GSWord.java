@@ -13,17 +13,17 @@ public class GSWord {
 
     public GSWord (String word, String linkURL) 
     {
-	this.word = word;
-	this.linkURL = linkURL;
+        this.word = word;
+        this.linkURL = linkURL;
     }
 
     public String toString ()
     {
-	String s = "Word=" + word;
-	if (linkURL != null) {
-	    s += "(Link=" + linkURL + ")";
-	}
-	return s;
+        String s = "Word=" + word;
+        if (linkURL != null) {
+            s += "(Link=" + linkURL + ")";
+        }
+        return s;
     }
 
 }
