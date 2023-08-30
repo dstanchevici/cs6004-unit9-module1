@@ -1,104 +1,41 @@
 GSBrowser: initialized and build complete
------  Above log entry written at 16:36:54.667754    -------------
+-----  Above log entry written at 16:45:22.765175    -------------
 
 GSBrowser():getRemoteFile(): successful retrieval of remote file from host=localhost port=40013 filename=test3.gsml
------  Above log entry written at 16:36:58.069659    -------------
+-----  Above log entry written at 16:45:25.876554    -------------
 
 GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
------  Above log entry written at 16:36:58.070674    -------------
+-----  Above log entry written at 16:45:25.877495    -------------
 
 GSDoc.processTitleTag(): tag attributes={size=20}
------  Above log entry written at 16:36:58.070902    -------------
+-----  Above log entry written at 16:45:25.877728    -------------
 
 GSDoc:processTag(): hline detected: line=<hline>
------  Above log entry written at 16:36:58.071373    -------------
+-----  Above log entry written at 16:45:25.878174    -------------
 
 GSDoc:processTag(): vspace detected: height=10
------  Above log entry written at 16:36:58.071962    -------------
+-----  Above log entry written at 16:45:25.878901    -------------
 
 GSDoc:extractWords(): beforetag= This is  aftertag=, and the server delivered the image below. linkTag=link url=test4.gsml linkText=a link to test4.gsml url=test4.gsml
------  Above log entry written at 16:36:58.075569    -------------
-
-GSDoc:processTag(): vspace detected: height=300
------  Above log entry written at 16:36:58.075807    -------------
-
-GSDoc:extractWords(): beforetag= And this is  aftertag=. linkTag=link url=register.gsml linkText=a link to register.gsml url=register.gsml
------  Above log entry written at 16:36:58.075903    -------------
+-----  Above log entry written at 16:45:25.882357    -------------
 
 GSDoc:processTag(): vspace detected: height=10
------  Above log entry written at 16:36:58.076054    -------------
+-----  Above log entry written at 16:45:25.882618    -------------
+
+GSDoc:extractWords(): beforetag= And this is  aftertag=. linkTag=link url=register.gsml linkText=a link to register.gsml url=register.gsml
+-----  Above log entry written at 16:45:25.882715    -------------
+
+GSDoc:processTag(): vspace detected: height=10
+-----  Above log entry written at 16:45:25.882889    -------------
 
 GSDoc:processTag(): image tag: width=50 height=70 url=daffy.png
------  Above log entry written at 16:36:58.079122    -------------
+-----  Above log entry written at 16:45:25.886286    -------------
 
 GSDoc:extractWords(): beforetag= This is  aftertag=, and the server delivered the image below. linkTag=link url=test4.gsml linkText=a link to test4.gsml url=test4.gsml
------  Above log entry written at 16:36:58.079294    -------------
+-----  Above log entry written at 16:45:25.886497    -------------
 
 GSDoc:extractWords(): beforetag= And this is  aftertag=. linkTag=link url=register.gsml linkText=a link to register.gsml url=register.gsml
------  Above log entry written at 16:36:58.079442    -------------
-
-GSDoc.parse(): Scan complete: elements:
-Element: type=hline
-Element: type=text Text(size=20) [The server delivered this file.]
-Element: type=vspace h=10
-Element: type=text Text(size=15) [This is <link url=test4.gsml>a link to test4.gsml</link>,and the server delivered the image below.]
-Element: type=vspace h=300
-Element: type=text Text(size=15) [And this is <link url=register.gsml>a link to register.gsml</link>.]
-Element: type=vspace h=10
-Element: type=image w=50 h=70 filename=null
-GSBrowser.getImage(): RemoteImage: file=daffy.png
------  Above log entry written at 16:36:58.089785    -------------
-
-GSBrowser.getImage: remote: image written to local file: gsmlpages/tempdaffy.png
------  Above log entry written at 16:36:58.228392    -------------
-
-GSBrowser.getImage(): RemoteImage: file=daffy.png
------  Above log entry written at 16:36:58.240101    -------------
-
-GSBrowser.getImage: remote: image written to local file: gsmlpages/tempdaffy.png
------  Above log entry written at 16:36:58.376359    -------------
-
-GSBrowser.getImage(): RemoteImage: file=daffy.png
------  Above log entry written at 16:36:58.379883    -------------
-
-GSBrowser.getImage: remote: image written to local file: gsmlpages/tempdaffy.png
------  Above log entry written at 16:36:58.501162    -------------
-
-GSBrowser():getRemoteFile(): successful retrieval of remote file from host=localhost port=40013 filename=test3.gsml
------  Above log entry written at 16:37:11.226223    -------------
-
-GSDoc.processDocTag(): tag attributes={background=FFFFFF, foreground=000000}
------  Above log entry written at 16:37:11.226417    -------------
-
-GSDoc.processTitleTag(): tag attributes={size=20}
------  Above log entry written at 16:37:11.226508    -------------
-
-GSDoc:processTag(): hline detected: line=<hline>
------  Above log entry written at 16:37:11.226560    -------------
-
-GSDoc:processTag(): vspace detected: height=10
------  Above log entry written at 16:37:11.226678    -------------
-
-GSDoc:extractWords(): beforetag= This is  aftertag=, and the server delivered the image below. linkTag=link url=test4.gsml linkText=a link to test4.gsml url=test4.gsml
------  Above log entry written at 16:37:11.226769    -------------
-
-GSDoc:processTag(): vspace detected: height=10
------  Above log entry written at 16:37:11.226919    -------------
-
-GSDoc:extractWords(): beforetag= And this is  aftertag=. linkTag=link url=register.gsml linkText=a link to register.gsml url=register.gsml
------  Above log entry written at 16:37:11.226994    -------------
-
-GSDoc:processTag(): vspace detected: height=10
------  Above log entry written at 16:37:11.227123    -------------
-
-GSDoc:processTag(): image tag: width=50 height=70 url=daffy.png
------  Above log entry written at 16:37:11.227210    -------------
-
-GSDoc:extractWords(): beforetag= This is  aftertag=, and the server delivered the image below. linkTag=link url=test4.gsml linkText=a link to test4.gsml url=test4.gsml
------  Above log entry written at 16:37:11.227290    -------------
-
-GSDoc:extractWords(): beforetag= And this is  aftertag=. linkTag=link url=register.gsml linkText=a link to register.gsml url=register.gsml
------  Above log entry written at 16:37:11.227420    -------------
+-----  Above log entry written at 16:45:25.886641    -------------
 
 GSDoc.parse(): Scan complete: elements:
 Element: type=hline
@@ -110,8 +47,20 @@ Element: type=text Text(size=15) [And this is <link url=register.gsml>a link to 
 Element: type=vspace h=10
 Element: type=image w=50 h=70 filename=null
 GSBrowser.getImage(): RemoteImage: file=daffy.png
------  Above log entry written at 16:37:11.229514    -------------
+-----  Above log entry written at 16:45:25.899111    -------------
 
 GSBrowser.getImage: remote: image written to local file: gsmlpages/tempdaffy.png
------  Above log entry written at 16:37:11.352607    -------------
+-----  Above log entry written at 16:45:26.063616    -------------
+
+GSBrowser.getImage(): RemoteImage: file=daffy.png
+-----  Above log entry written at 16:45:26.071081    -------------
+
+GSBrowser.getImage: remote: image written to local file: gsmlpages/tempdaffy.png
+-----  Above log entry written at 16:45:26.239161    -------------
+
+GSBrowser.getImage(): RemoteImage: file=daffy.png
+-----  Above log entry written at 16:45:26.242559    -------------
+
+GSBrowser.getImage: remote: image written to local file: gsmlpages/tempdaffy.png
+-----  Above log entry written at 16:45:26.365955    -------------
 

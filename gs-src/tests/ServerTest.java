@@ -13,22 +13,22 @@ public class ServerTest {
 
     static void sendMessage (String message)
     {
-	try {
-	    Socket soc = new Socket ("localhost", 40013);
-	    PrintWriter pw = new PrintWriter (soc.getOutputStream());
-	    pw.println (message);
-	    pw.flush ();
-	    LineNumberReader lnr = new LineNumberReader (new InputStreamReader(soc.getInputStream()));
-	    System.out.println ("Result received: ");
-	    String line = lnr.readLine ();
-	    while (line != null) {
-		System.out.println (line);
-		line = lnr.readLine ();
-	    }
-	}
-	catch (Exception e) {
-	    e.printStackTrace ();
-	}
+		try {
+			Socket soc = new Socket ("localhost", 40013);
+			PrintWriter pw = new PrintWriter (soc.getOutputStream());
+			pw.println (message);
+			pw.flush ();
+			LineNumberReader lnr = new LineNumberReader (new InputStreamReader(soc.getInputStream()));
+			System.out.println ("Result received: ");
+			String line = lnr.readLine ();
+			while (line != null) {
+				System.out.println (line);
+				line = lnr.readLine ();
+			}
+		}
+		catch (Exception e) {
+			e.printStackTrace ();
+		}
     }
 
 }
