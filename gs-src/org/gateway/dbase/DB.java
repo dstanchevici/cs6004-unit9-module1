@@ -22,30 +22,30 @@ public class DB {
 
     public DB (String dbName)
     {
-	pathToTables = "databases" + File.separator + dbName;
-	this.dbName = dbName;
-	loadDB ();
+		pathToTables = "databases" + File.separator + dbName;
+		this.dbName = dbName;
+		loadDB ();
     }
 
     void loadDB ()
     {
-	System.out.println ("DB.loadDB(): path=" + pathToTables);
+		System.out.println ("DB.loadDB(): path=" + pathToTables);
 
-	// The .db file contains the structure of each table.
-	ArrayList<MyRecord> records = ParseEngine.readRecords (pathToTables+".db");
-	// records.get(i) has info about the i-th table.
-	for (MyRecord r: records) {
-	    // Each record in the .db file describes a table.
-	    Table t = new Table (pathToTables, r);
-	    tables.put (t.getName(), t);
-	}
+		// The .db file contains the structure of each table.
+		ArrayList<MyRecord> records = ParseEngine.readRecords (pathToTables+".db");
+		// records.get(i) has info about the i-th table.
+		for (MyRecord r: records) {
+			// Each record in the .db file describes a table.
+			Table t = new Table (pathToTables, r);
+			tables.put (t.getName(), t);
+		}
 
-	// Write to log
-	Log.println ("DB: end of loading tables");
-	for (String t: tables.keySet()) {
-	    Table table = tables.get (t);
-	    Log.println (""+table);
-	}
+		// Write to log
+		Log.println ("DB: end of loading tables");
+		for (String t: tables.keySet()) {
+			Table table = tables.get (t);
+			Log.println (""+table);
+		}
 
     }
 
@@ -56,11 +56,11 @@ public class DB {
 
     public String toString ()
     {
-	String s = "DB=" + dbName + "\n";
-	for (String tableName: tables.keySet()) {
-	    s += "table: " + tableName + "\n";
-	}
-	return s;
+		String s = "DB=" + dbName + "\n";
+		for (String tableName: tables.keySet()) {
+			s += "table: " + tableName + "\n";
+		}
+		return s;
     }
 
 }

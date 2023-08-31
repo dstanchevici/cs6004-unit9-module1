@@ -123,31 +123,31 @@ public class Table {
 
     public Table join (Table t)
     {
-	// First put together the fields for the result.
-	Table result = new Table ();
-	result.name = "result";
-	for (String field: fieldInfo.keySet()) {
-	    String typeStr = fieldInfo.get(field);
-	    result.fieldInfo.put (field, typeStr);
-	}
-	for (String field: t.fieldInfo.keySet()) {
-	    if (! fieldInfo.keySet().contains(field)) {
-		String typeStr = t.fieldInfo.get(field);
-		result.fieldInfo.put (field, typeStr);
-	    }
-	}
-
-	// Now put matched rows into the result.
-	for (MyRecord r: rows) {
-	    for (MyRecord r2: t.rows) {
-		MyRecord r3 = r.join (r2);
-		if (r3 != null) {
-		    result.rows.add (r3);
+		// First put together the fields for the result.
+		Table result = new Table ();
+		result.name = "result";
+		for (String field: fieldInfo.keySet()) {
+			String typeStr = fieldInfo.get(field);
+			result.fieldInfo.put (field, typeStr);
 		}
-	    }
-	}
+		for (String field: t.fieldInfo.keySet()) {
+			if (! fieldInfo.keySet().contains(field)) {
+				String typeStr = t.fieldInfo.get(field);
+				result.fieldInfo.put (field, typeStr);
+			}
+		}
 
-	return result;
+		// Now put matched rows into the result.
+		for (MyRecord r: rows) {
+			for (MyRecord r2: t.rows) {
+				MyRecord r3 = r.join (r2);
+				if (r3 != null) {
+					result.rows.add (r3);
+				}
+			}
+		}
+
+		return result;
     }
 
 }

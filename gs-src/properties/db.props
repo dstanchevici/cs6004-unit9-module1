@@ -2,9 +2,10 @@
 # it's stored as the file something.db, as in movie.db
 database0=moviesreduced
 database1=movies
+database2=module1
 
 # The total number:
-numDatabases=2
+numDatabases=3
 
 # Replace the below number with your assigned port number 
 # (something other than the default 40014)

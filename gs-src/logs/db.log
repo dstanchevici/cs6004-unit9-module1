@@ -1,20 +1,20 @@
 Starting DBServer
------  Above log entry written at 10:01:18.392994    -------------
+-----  Above log entry written at 16:54:50.813245    -------------
 
 ParseEngine: end of reading from databases/moviesreduced.db
------  Above log entry written at 10:01:18.412615    -------------
+-----  Above log entry written at 16:54:50.833769    -------------
 
 ParseEngine: end of reading from databases/moviesreduced/movies.table
------  Above log entry written at 10:01:18.418134    -------------
+-----  Above log entry written at 16:54:50.839862    -------------
 
 ParseEngine: end of reading from databases/moviesreduced/genres.table
------  Above log entry written at 10:01:18.422251    -------------
+-----  Above log entry written at 16:54:50.844455    -------------
 
 ParseEngine: end of reading from databases/moviesreduced/actors.table
------  Above log entry written at 10:01:18.427790    -------------
+-----  Above log entry written at 16:54:50.849284    -------------
 
 DB: end of loading tables
------  Above log entry written at 10:01:18.427960    -------------
+-----  Above log entry written at 16:54:50.849449    -------------
 
 Table: movies
   revenue: real
@@ -24,34 +24,34 @@ Table: movies
   title: string
   budget: real
 
------  Above log entry written at 10:01:18.428481    -------------
+-----  Above log entry written at 16:54:50.849929    -------------
 
 Table: actors
   actor: string
   movieID: integer
 
------  Above log entry written at 10:01:18.428576    -------------
+-----  Above log entry written at 16:54:50.850015    -------------
 
 Table: genres
   genre: string
   movieID: integer
 
------  Above log entry written at 10:01:18.428659    -------------
+-----  Above log entry written at 16:54:50.850100    -------------
 
 ParseEngine: end of reading from databases/movies.db
------  Above log entry written at 10:01:18.429091    -------------
+-----  Above log entry written at 16:54:50.850505    -------------
 
 ParseEngine: end of reading from databases/movies/movies.table
------  Above log entry written at 10:01:18.433929    -------------
+-----  Above log entry written at 16:54:50.856290    -------------
 
 ParseEngine: end of reading from databases/movies/genres.table
------  Above log entry written at 10:01:18.438935    -------------
+-----  Above log entry written at 16:54:50.860972    -------------
 
 ParseEngine: end of reading from databases/movies/actors.table
------  Above log entry written at 10:01:18.492213    -------------
+-----  Above log entry written at 16:54:50.917561    -------------
 
 DB: end of loading tables
------  Above log entry written at 10:01:18.492422    -------------
+-----  Above log entry written at 16:54:50.917767    -------------
 
 Table: movies
   revenue: real
@@ -61,23 +61,126 @@ Table: movies
   title: string
   budget: real
 
------  Above log entry written at 10:01:18.492525    -------------
+-----  Above log entry written at 16:54:50.917875    -------------
 
 Table: actors
   actor: string
   movieID: integer
 
------  Above log entry written at 10:01:18.492593    -------------
+-----  Above log entry written at 16:54:50.917943    -------------
 
 Table: genres
   genre: string
   movieID: integer
 
------  Above log entry written at 10:01:18.492664    -------------
+-----  Above log entry written at 16:54:50.918017    -------------
+
+ParseEngine: end of reading from databases/module1.db
+-----  Above log entry written at 16:54:50.918279    -------------
+
+ParseEngine: end of reading from databases/module1/movies.table
+-----  Above log entry written at 16:54:50.918474    -------------
+
+ParseEngine: end of reading from databases/module1/genres.table
+-----  Above log entry written at 16:54:50.921368    -------------
+
+ParseEngine: end of reading from databases/module1/actors.table
+-----  Above log entry written at 16:54:50.921870    -------------
+
+DB: end of loading tables
+-----  Above log entry written at 16:54:50.921984    -------------
+
+Table: movies
+  revenue: real
+  director: string
+  popularity: real
+  movieID: integer
+  title: string
+  budget: real
+
+-----  Above log entry written at 16:54:50.922083    -------------
+
+Table: actors
+  actor: string
+  movieID: integer
+
+-----  Above log entry written at 16:54:50.922148    -------------
+
+Table: genres
+  genre: string
+  movieID: integer
+
+-----  Above log entry written at 16:54:50.922212    -------------
 
 DBServer:loadDatabases: complete
------  Above log entry written at 10:01:18.492739    -------------
+-----  Above log entry written at 16:54:50.922284    -------------
 
-DBServer.doJoin(): db1=movies table1=actors db2=movies table2=movies
------  Above log entry written at 10:05:43.102205    -------------
+DBServer.doJoin(): db1=module1 table1=movies db2=module1 table2=actors
+-----  Above log entry written at 16:56:32.611219    -------------
+
+DBServer.doSelect(): db=module1 table=movies conditions=null
+-----  Above log entry written at 17:36:09.047052    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 17:37:03.237410    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 18:49:00.980017    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 18:50:25.386920    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 18:51:18.435861    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 18:52:25.397648    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 18:53:39.306794    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 18:54:28.824753    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 18:54:59.623042    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 18:56:25.829585    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 18:56:51.412532    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 18:57:19.037211    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 19:00:35.233409    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 19:01:32.016408    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 19:02:33.554983    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 19:02:53.410699    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 19:03:51.403883    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 19:07:01.795668    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 19:07:16.263597    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 19:08:15.894853    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 19:11:02.088911    -------------
+
+DBServer.doSelect(): db=module1 table=actors conditions=null
+-----  Above log entry written at 19:12:49.069140    -------------
 

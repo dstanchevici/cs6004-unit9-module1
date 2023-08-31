@@ -1,0 +1,64 @@
+#########################################
+.
+movieID: 330
+title: I, Robot
+budget: 1.2E8
+revenue: 3.47234916E8
+director: Alex Proyas
+popularity: 95.914473
+#########################################
+.
+movieID: 473
+title: Into the Woods
+budget: 5.0E7
+revenue: 2.12902372E8
+director: Rob Marshall
+popularity: 65.90161
+#########################################
+.
+movieID: 129
+title: I Am Legend
+budget: 1.5E8
+revenue: 5.8534901E8
+director: Francis Lawrence
+popularity: 70.867401
+#########################################
+.
+movieID: 97
+title: Kung Fu Panda
+budget: 1.3E8
+revenue: 6.3174456E8
+director: John Stevenson
+popularity: 84.689648
+#########################################
+.
+movieID: 486
+title: Traffic
+budget: 4.8E7
+revenue: 2.07515725E8
+director: Steven Soderbergh
+popularity: 25.170217
+#########################################
+.
+movieID: 234
+title: The Devil Wears Prada
+budget: 3.5E7
+revenue: 3.26551094E8
+director: David Frankel
+popularity: 83.893257
+#########################################
+.
+movieID: 492
+title: Star Trek Beyond
+budget: 1.85E8
+revenue: 3.43471816E8
+director: Justin Lin
+popularity: 65.352913
+#########################################
+.
+movieID: 347
+title: X-Men
+budget: 7.5E7
+revenue: 2.96339527E8
+director: Bryan Singer
+popularity: 4.66891
