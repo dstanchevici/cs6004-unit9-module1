@@ -139,33 +139,33 @@ public class ParseEngine {
 
 			String line = lnr.readLine ();
 			while (line != null) {
-			line = line.trim ();
+				line = line.trim ();
 
-			// Comment or empty line.
-			if ((line.length() == 0) || (line.startsWith("#"))) {
-				line = lnr.readLine ();
-				continue;
-			}
-
-			if (line.startsWith(".")) {
-				// New record:
-				if (currentMap != null) {
-				records.add (new MyRecord(currentMap));
+				// Comment or empty line.
+				if ((line.length() == 0) || (line.startsWith("#"))) {
+					line = lnr.readLine ();
+					continue;
 				}
-				currentMap = new HashMap<>();
-				line = lnr.readLine ();
-				continue;
-			}
 
-			// Otherwise, it's data.
-			NameValue nv = parseNameValue (line);
-			if (nv == null) {
-				System.out.println ("ParseEngine FATAL ERROR: see log file");
-				Log.println ("ParseEngine: DB: parse error: line=" + line);
-				System.exit (0);
-			}
-			currentMap.put (nv.name, nv.value);
-			line = lnr.readLine ();
+				if (line.startsWith(".")) {
+					// New record:
+					if (currentMap != null) {
+					records.add (new MyRecord(currentMap));
+					}
+					currentMap = new HashMap<>();
+					line = lnr.readLine ();
+					continue;
+				}
+
+				// Otherwise, it's data.
+				NameValue nv = parseNameValue (line);
+				if (nv == null) {
+					System.out.println ("ParseEngine FATAL ERROR: see log file");
+					Log.println ("ParseEngine: DB: parse error: line=" + line);
+					System.exit (0);
+				}
+				currentMap.put (nv.name, nv.value);
+				line = lnr.readLine ();
 			}
 
 			// Add last table.

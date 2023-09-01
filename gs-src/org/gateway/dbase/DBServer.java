@@ -245,6 +245,23 @@ public class DBServer implements Runnable {
 			// then use that here.
 
 
+			DB db = nameToDB.get (dbName);
+			Table table = db.getTable (tableName);
+
+			Set<String> projSet = new HashSet<String>(); // to ensure that there are no duplications
+			Set<String> colNames = columns.keySet(); // to send to project() in MyRecord
+			ArrayList<MyRecord> records = table.getRows();
+			// Send each row to project() in MyRecord and receie a formatted string
+			for (MyRecord r: records) {
+				projSet.add( r.project(colNames) );
+			}
+
+			// B/c the String projections are in a set,
+			// there should be no duplicates.
+			// Now send back to client.
+			for (String projection: projSet) {
+				pw.println(projection);
+			}
 			pw.flush(); pw.close();
 		}
 		catch (Exception e) {
@@ -308,11 +325,11 @@ public class DBServer implements Runnable {
 			Table table = db.getTable (tableName);
 
 			if (table.insert(r)) {
-			pw.println ("SUCCESS");
-			pw.flush(); pw.close();
+				pw.println ("SUCCESS");
+				pw.flush(); pw.close();
 			}
 			else {
-			writeError ();
+					writeError ();
 			}
 		}
 		catch (Exception e) {

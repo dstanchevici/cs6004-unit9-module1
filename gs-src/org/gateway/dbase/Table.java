@@ -19,17 +19,17 @@ public class Table {
 
     public Table (String pathToTables, MyRecord tableInfo)
     {
-	// We get as input: the path to the actual table, and the 
-	// structure of this table (as a MyRecord instance).
-	// A MyRecord is really just a hashmap.
-	this.pathToTables = pathToTables;
-	name = tableInfo.get ("table");
-	for (String s: tableInfo.keySet()) {
-	    if (!s.equalsIgnoreCase("table")) {
-		fieldInfo.put (s, tableInfo.get(s));
-	    }
-	}
-	loadTable ();
+		// We get as input: the path to the actual table, and the
+		// structure of this table (as a MyRecord instance).
+		// A MyRecord is really just a hashmap.
+		this.pathToTables = pathToTables;
+		name = tableInfo.get ("table");
+		for (String s: tableInfo.keySet()) {
+			if (!s.equalsIgnoreCase("table")) {
+			fieldInfo.put (s, tableInfo.get(s));
+			}
+		}
+		loadTable ();
     }
 
 
@@ -40,27 +40,27 @@ public class Table {
 
     void loadTable ()
     {
-	String filePath = pathToTables + File.separator + name + ".table";
-	rows = ParseEngine.readRecords (filePath);
-	System.out.println ("Loaded table " + filePath + ": " + rows.size() + " rows");
+		String filePath = pathToTables + File.separator + name + ".table";
+		rows = ParseEngine.readRecords (filePath);
+		System.out.println ("Loaded table " + filePath + ": " + rows.size() + " rows");
     }
 
     public boolean saveTable ()
     {
-	try {
-	    String filePath = pathToTables + File.separator + name + ".table";
-	    // Save old one.
-	    File file = new File (filePath);
-	    String altName = pathToTables + File.separator + "old." + name + ".table";
-	    File altFile = new File (altName);
-	    file.renameTo (altFile);
-	    return ParseEngine.saveRecords (filePath, rows);
-	}
-	catch (Exception e) {
-	    Log.println ("ERROR in Table.saveTable()");
-	    e.printStackTrace (Log.getWriter());
-	    return false;
-	}
+		try {
+			String filePath = pathToTables + File.separator + name + ".table";
+			// Save old one.
+			File file = new File (filePath);
+			String altName = pathToTables + File.separator + "old." + name + ".table";
+			File altFile = new File (altName);
+			file.renameTo (altFile);
+			return ParseEngine.saveRecords (filePath, rows);
+		}
+		catch (Exception e) {
+			Log.println ("ERROR in Table.saveTable()");
+			e.printStackTrace (Log.getWriter());
+			return false;
+		}
     }
 
     public String getName ()
@@ -70,55 +70,55 @@ public class Table {
 
     public String getType (String columnName)
     {
-	return fieldInfo.get(columnName);
+		return fieldInfo.get(columnName);
     }
 
 
     public ArrayList<MyRecord> getRows ()
     {
-	return rows;
+		return rows;
     }
 
     public String toString ()
     {
-	String s = "Table: " + name + "\n";
-	for (String field: fieldInfo.keySet()) {
-	    s += "  " + field + ": " + fieldInfo.get(field) + "\n";
-	}
-	return s;
+		String s = "Table: " + name + "\n";
+		for (String field: fieldInfo.keySet()) {
+			s += "  " + field + ": " + fieldInfo.get(field) + "\n";
+		}
+		return s;
     }
 
     public String printRows ()
     {
-	String s = "Table: " + name + "\n";
-	for (MyRecord r: rows) {
-	    s += " " + r + "\n";
-	}
-	return s;
+		String s = "Table: " + name + "\n";
+		for (MyRecord r: rows) {
+			s += " " + r + "\n";
+		}
+		return s;
     }
 
     public boolean insert (MyRecord r)
     {
-	// Check that all fields are present.
-	if (r.keySet().size() != fieldInfo.keySet().size()) {
-	    Log.println ("Table:insert(): #fields mismatch for table=" + name);
-	    Log.println ("# record fields=" + r.keySet().size() + " #needed=" + fieldInfo.keySet().size());
-	    return false;
-	}
-	for (String field: fieldInfo.keySet()) {
-	    if (! r.keySet().contains(field) ) {
-		Log.println ("Table:insert(): incorrect field: " + field);
+		// Check that all fields are present.
+		if (r.keySet().size() != fieldInfo.keySet().size()) {
+			Log.println ("Table:insert(): #fields mismatch for table=" + name);
+			Log.println ("# record fields=" + r.keySet().size() + " #needed=" + fieldInfo.keySet().size());
+			return false;
+		}
+		for (String field: fieldInfo.keySet()) {
+			if (! r.keySet().contains(field) ) {
+				Log.println ("Table:insert(): incorrect field: " + field);
+				return false;
+			}
+		}
+
+		// Check that it's not already there before adding.
+		if (! rows.contains(r) ) {
+			rows.add (r);
+			return true;
+		}
+		Log.println ("Table:insert(): record already there: " + r);
 		return false;
-	    }
-	}
-	
-	// Check that it's not already there before adding.
-	if (! rows.contains(r) ) {
-	    rows.add (r);
-	    return true;
-	}
-	Log.println ("Table:insert(): record already there: " + r);
-	return false;
     }
 
     public Table join (Table t)

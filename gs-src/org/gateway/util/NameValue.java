@@ -12,8 +12,8 @@ public class NameValue {
 
     public NameValue (String name, String value)
     {
-	this.name = name;
-	this.value = value;
+        this.name = name;
+        this.value = value;
     }
 
     public String toString ()

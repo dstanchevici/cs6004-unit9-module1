@@ -59,7 +59,7 @@ public class JoinExercise {
     {
         ArrayList <HashMap<String, String>> rows = new ArrayList<>();
         try {
-            Socket soc = new Socket ("localhost", 40014);
+            Socket soc = new Socket ("localhost", 40014); // a new socket for each query
             PrintWriter pw = new PrintWriter (soc.getOutputStream());
             pw.println (query);
             pw.flush ();
