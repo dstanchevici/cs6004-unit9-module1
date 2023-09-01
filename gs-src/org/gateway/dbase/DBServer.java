@@ -214,16 +214,16 @@ public class DBServer implements Runnable {
 			Table table = db.getTable (tableName);
 
 			for (MyRecord row: table.getRows()) {
-			if (conditions == null) {
-				// This is FETCH, so all rows are returned.
-				pw.println (row);
-			}
-			else if ( row.matches(conditions) )  {
-				// Otherwise, only the rows that match conditions are returned.
-				pw.println (row);
-			}
-			// Note: the MyRecord class has toString() implemented,
-			// which writes out a String version of the record.
+				if (conditions == null) {
+					// This is FETCH, so all rows are returned.
+					pw.println (row);
+				}
+				else if ( row.matches(conditions) )  {
+					// Otherwise, only the rows that match conditions are returned.
+					pw.println (row);
+				}
+				// Note: the MyRecord class has toString() implemented,
+				// which writes out a String version of the record.
 			}
 			pw.flush(); pw.close();
 		}

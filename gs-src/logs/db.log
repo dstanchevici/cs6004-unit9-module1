@@ -1,20 +1,20 @@
 Starting DBServer
------  Above log entry written at 13:57:04.845027    -------------
+-----  Above log entry written at 15:30:56.083945    -------------
 
 ParseEngine: end of reading from databases/moviesreduced.db
------  Above log entry written at 13:57:04.871467    -------------
+-----  Above log entry written at 15:30:56.103657    -------------
 
 ParseEngine: end of reading from databases/moviesreduced/movies.table
------  Above log entry written at 13:57:04.877994    -------------
+-----  Above log entry written at 15:30:56.109516    -------------
 
 ParseEngine: end of reading from databases/moviesreduced/genres.table
------  Above log entry written at 13:57:04.883289    -------------
+-----  Above log entry written at 15:30:56.113971    -------------
 
 ParseEngine: end of reading from databases/moviesreduced/actors.table
------  Above log entry written at 13:57:04.890281    -------------
+-----  Above log entry written at 15:30:56.118757    -------------
 
 DB: end of loading tables
------  Above log entry written at 13:57:04.890458    -------------
+-----  Above log entry written at 15:30:56.118913    -------------
 
 Table: movies
   revenue: real
@@ -24,34 +24,34 @@ Table: movies
   title: string
   budget: real
 
------  Above log entry written at 13:57:04.891019    -------------
+-----  Above log entry written at 15:30:56.119454    -------------
 
 Table: actors
   actor: string
   movieID: integer
 
------  Above log entry written at 13:57:04.891149    -------------
+-----  Above log entry written at 15:30:56.119552    -------------
 
 Table: genres
   genre: string
   movieID: integer
 
------  Above log entry written at 13:57:04.891230    -------------
+-----  Above log entry written at 15:30:56.119660    -------------
 
 ParseEngine: end of reading from databases/movies.db
------  Above log entry written at 13:57:04.891728    -------------
+-----  Above log entry written at 15:30:56.120099    -------------
 
 ParseEngine: end of reading from databases/movies/movies.table
------  Above log entry written at 13:57:04.897032    -------------
+-----  Above log entry written at 15:30:56.125018    -------------
 
 ParseEngine: end of reading from databases/movies/genres.table
------  Above log entry written at 13:57:04.902004    -------------
+-----  Above log entry written at 15:30:56.129756    -------------
 
 ParseEngine: end of reading from databases/movies/actors.table
------  Above log entry written at 13:57:04.969553    -------------
+-----  Above log entry written at 15:30:56.182865    -------------
 
 DB: end of loading tables
------  Above log entry written at 13:57:04.969702    -------------
+-----  Above log entry written at 15:30:56.183016    -------------
 
 Table: movies
   revenue: real
@@ -61,34 +61,34 @@ Table: movies
   title: string
   budget: real
 
------  Above log entry written at 13:57:04.969833    -------------
+-----  Above log entry written at 15:30:56.183123    -------------
 
 Table: actors
   actor: string
   movieID: integer
 
------  Above log entry written at 13:57:04.969901    -------------
+-----  Above log entry written at 15:30:56.183192    -------------
 
 Table: genres
   genre: string
   movieID: integer
 
------  Above log entry written at 13:57:04.969976    -------------
+-----  Above log entry written at 15:30:56.183258    -------------
 
 ParseEngine: end of reading from databases/module1.db
------  Above log entry written at 13:57:04.970343    -------------
+-----  Above log entry written at 15:30:56.183603    -------------
 
 ParseEngine: end of reading from databases/module1/movies.table
------  Above log entry written at 13:57:04.970548    -------------
+-----  Above log entry written at 15:30:56.183816    -------------
 
 ParseEngine: end of reading from databases/module1/genres.table
------  Above log entry written at 13:57:04.973975    -------------
+-----  Above log entry written at 15:30:56.185474    -------------
 
 ParseEngine: end of reading from databases/module1/actors.table
------  Above log entry written at 13:57:04.974321    -------------
+-----  Above log entry written at 15:30:56.185710    -------------
 
 DB: end of loading tables
------  Above log entry written at 13:57:04.974431    -------------
+-----  Above log entry written at 15:30:56.185818    -------------
 
 Table: movies
   revenue: real
@@ -98,26 +98,44 @@ Table: movies
   title: string
   budget: real
 
------  Above log entry written at 13:57:04.974564    -------------
+-----  Above log entry written at 15:30:56.185908    -------------
 
 Table: actors
   actor: string
   movieID: integer
 
------  Above log entry written at 13:57:04.974639    -------------
+-----  Above log entry written at 15:30:56.185973    -------------
 
 Table: genres
   genre: string
   movieID: integer
 
------  Above log entry written at 13:57:04.974696    -------------
+-----  Above log entry written at 15:30:56.186033    -------------
 
 DBServer:loadDatabases: complete
------  Above log entry written at 13:57:04.974787    -------------
+-----  Above log entry written at 15:30:56.186101    -------------
 
-DBServer.doProject(): db=module1 table=actors columns=[ {actor:_} ]
------  Above log entry written at 13:57:13.527938    -------------
+DBServer.doSelect(): db=movies table=movies conditions=null
+-----  Above log entry written at 15:31:25.021265    -------------
 
-DBServer.doProject(): db=module1 table=genres columns=[ {genre:_} ]
------  Above log entry written at 13:57:13.531769    -------------
+DBServer.doInsert(): db=movies table=movies record=[ {revenue:1.44E8}  {director:Alphonso Cuaron}  {popularity:96.4}  {movieID:8001}  {title:Gravity}  {budget:2.0E6} ]
+-----  Above log entry written at 15:31:25.363912    -------------
+
+DBServer.doSelect(): db=movies table=movies conditions=null
+-----  Above log entry written at 15:31:57.108701    -------------
+
+DBServer.doInsert(): db=movies table=movies record=[ {revenue:1.44E8}  {director:Alphonso Cuaron}  {popularity:96.4}  {movieID:8001}  {title:Gravity}  {budget:2.0E6} ]
+-----  Above log entry written at 15:31:57.487536    -------------
+
+Table:insert(): record already there: [ {revenue:1.44E8}  {director:Alphonso Cuaron}  {popularity:96.4}  {movieID:8001}  {title:Gravity}  {budget:2.0E6} ]
+-----  Above log entry written at 15:31:57.488306    -------------
+
+DBServer.doSelect(): db=movies table=movies conditions=null
+-----  Above log entry written at 15:32:31.512488    -------------
+
+DBServer.doInsert(): db=movies table=movies record=[ {revenue:1.44E8}  {director:Alphonso Cuaron}  {popularity:96.4}  {movieID:8001}  {title:Gravity}  {budget:2.0E6} ]
+-----  Above log entry written at 15:32:31.822536    -------------
+
+Table:insert(): record already there: [ {revenue:1.44E8}  {director:Alphonso Cuaron}  {popularity:96.4}  {movieID:8001}  {title:Gravity}  {budget:2.0E6} ]
+-----  Above log entry written at 15:32:31.822893    -------------
 

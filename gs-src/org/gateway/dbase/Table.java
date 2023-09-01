@@ -26,7 +26,7 @@ public class Table {
 		name = tableInfo.get ("table");
 		for (String s: tableInfo.keySet()) {
 			if (!s.equalsIgnoreCase("table")) {
-			fieldInfo.put (s, tableInfo.get(s));
+				fieldInfo.put (s, tableInfo.get(s));
 			}
 		}
 		loadTable ();
