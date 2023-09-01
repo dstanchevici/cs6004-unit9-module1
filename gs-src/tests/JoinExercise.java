@@ -15,9 +15,11 @@ public class JoinExercise {
         doJoinFromSelect ();
     }
 
+    static ArrayList<String> mergedRows = new ArrayList<>();
+
     static void doJoinFromSelect ()
     {
-        try {
+
             // WRITE YOUR CODE HERE
             // Perform a FETCH for each of the two tables. This will
             // give you two lists of records (in string format).
@@ -25,54 +27,70 @@ public class JoinExercise {
             // for "movieID" in each, then extract the string that
             // follows the colon up to the brace. And then compare.
 
-            Socket soc = new Socket ("localhost", 40014);
-            ArrayList <HashMap<String, String>> actorRows = makeRows ("FETCH module1:actors", soc);
+        ArrayList <HashMap<String, String>> actorRows = makeRows ("FETCH module1:actors");
+        ArrayList <HashMap<String, String>> movieRows = makeRows ("FETCH module1:movies");
 
+
+        for (HashMap<String, String> actorRow: actorRows) {
+            for (HashMap<String, String> movieRow: movieRows) {
+                if ( actorRow.get("movieID").equals( movieRow.get("movieID") )  )
+                    mergedRows.add( merge (actorRow, movieRow) );
+            }
         }
-        catch (Exception e) {
-            e.printStackTrace ();
+
+        for (String row: mergedRows) {
+            System.out.println(row);
         }
 
     }
 
-    static ArrayList <HashMap<String, String>> makeRows (String query, Socket soc)
+    static String merge (HashMap<String, String> actorRow, HashMap<String, String> movieRow)
     {
+        String mergedRow = "[ ";
+        mergedRow += "{actor:" + actorRow.get("actor") + "} ";
+        for (HashMap.Entry<String, String> entry: movieRow.entrySet()) {
+            mergedRow += "{" + entry.getKey() + ":" + entry.getValue() + "} ";
+        }
+        mergedRow += "]";
+        return mergedRow;
+    }
+
+    static ArrayList <HashMap<String, String>> makeRows (String query)
+    {
+        ArrayList <HashMap<String, String>> rows = new ArrayList<>();
         try {
+            Socket soc = new Socket ("localhost", 40014);
             PrintWriter pw = new PrintWriter (soc.getOutputStream());
             pw.println (query);
             pw.flush ();
+
             LineNumberReader lnr = new LineNumberReader (new InputStreamReader(soc.getInputStream()));
             System.out.println ("Result from query: " + query);
             String line = lnr.readLine ();
-            System.out.println(line);
-            line = line.substring (1, line.length()-1).trim();
-            System.out.println(line);
-            String[] parts = line.split("\\}");
-            String name = "";
-            String value = "";
-            for (String part: parts) {
-                part = part.trim().substring(1);
-                int k = part.indexOf(":");
-                name = part.substring(0, k);
-                value = part.substring(k+1);
-                System.out.println(name);
-                System.out.println(value);
-            }
-
-
-            /*
+            //System.out.println("FIRST LINE: " + line);
             while (line != null) {
-                System.out.println (line);
-                line = lnr.readLine ();
+                //System.out.println(line);
+                line = line.substring(1, line.length() - 1).trim();
+                //System.out.println(line);
+                String[] parts = line.split("\\}");
+                HashMap<String, String> row = new HashMap<>();
+                for (String part : parts) {
+                    part = part.trim().substring(1);
+                    int k = part.indexOf(":");
+                    String name = part.substring(0, k);
+                    String value = part.substring(k + 1);
+                    //System.out.println(name);
+                    //System.out.println(value);
+                    row.put (name, value);
+                }
+                rows.add (row);
+                line = lnr.readLine();
             }
-
-             */
         }
         catch (Exception e) {
             e.printStackTrace ();
         }
-
-        return null;
+        return rows;
     }
 
     static void runGSQLQuery (String query)
